@@ -52,8 +52,27 @@
                         </a>
                     </li>
                     {% endif %}
+                    <!--
+                    {% if site.sms %}
+                    <li>
+                        <a href="sms:{{ site.sms }}">Tap to text us!</a>
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+                  -->
                 </ul>
-                <p class="copyright text-muted">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
+                <p class="copyright text-muted">
+                  Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}
+                  {% if page.header-credit-link%}
+                      <a href="{{ page.header-credit-link}}" target="_blank" >Header image</a>
+                  {% else %}
+                      <a href="https://dario.com" target="_blank" >dario.com</a>
+                  {% endif %}
+                </p>
             </div>
         </div>
     </div>

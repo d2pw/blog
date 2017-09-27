@@ -2,13 +2,13 @@
 title: Blog
 header-img: img/home-bg.jpg
 email: contact@dario.com
-copyright_name: 
+copyright_name:
 description: "BLOG dario.com Understand - Take Action. Security is a business requirement. Protecting privacy is good business"
 baseurl: "/blog"
 url: "https://dario.pw.com"
 twitter_username: darioS3C
-github_username:  
-facebook_username:  
+github_username:
+facebook_username:
 email_username:  contact@dario.com
 
 # Google Analytics
@@ -19,7 +19,7 @@ google_tracking_id: UA-98131817-4
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
-paginate: 5
+paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]

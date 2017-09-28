@@ -2,7 +2,7 @@
 layout:     post
 title:      "Cyber Insurance"
 subtitle:   "Every organization needs to protect itself."
-date:       2017-08-15 12:00:00
+date:       2017-07-26 12:00:00
 author:     "dario"
 header-img: "img/cyber-insurance.jpg"
 header-credit-link: https://pixabay.com/en/matrix-earth-global-international-2502958/

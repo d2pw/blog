@@ -9,11 +9,16 @@ header-img: "img/educate-staff.jpg"
 
 
 ## User Education and Awareness
-Users have a critical role to play in their organization’s security. It is important that security guidelines and the technology provided enable users to do their job as well as help keep the organization secure. This can be supported by awareness programs and training that deliver security expertise as well helping to establish a security-conscious culture.
 
-### 5 Things Cybersecurity Training Should Help Users Understand
+Organizations need to be strategic and proactive in their approach to cybersecurity education and awareness training and make sure they are covering the right topics. It is important that cybersecurity training programs give people the best and most effective education possible, covering all the important aspects of cybersecurity.
+
+#### 5 Things Cybersecurity Training Should Help Users Understand
 * **What cybersecurity is and what technologies are involved**
-* **What tools are used to defend against them**  
-* **What the security vulnerabilities and risks are, as well as their implications**
+* **What tools are used to defend against them**
+* **What security vulnerabilities and risks are, as well as their implications**
 * **What the industry’s standards and regulations are**
-* **The role they play in helping keep their organization secure**  
+* **The role users play in helping keep their organization secure**
+
+Organizations that do not effectively support employees with the right tools and awareness are more vulnerable to carelessness as well as targeted attacks.
+
+Users have a critical role to play in their organization’s security. It is important that security guidelines and the technology provided enable users to do their job as well as help keep the organization secure. This can be supported by awareness programs and training that deliver security expertise as well helping to establish a security-conscious culture.

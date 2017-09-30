@@ -7,11 +7,11 @@ author:     "dario"
 header-img: "img/ensure-continuity.jpg"
 ---
 
-### Develop Business Continuity & Disaster Recovery Plans
-A business continuity plan outlines procedures and instructions an organization must follow in the face of disaster, whether fire, flood or cyberattack. 
+## Develop Business Continuity & Disaster Recovery Plans
+A business continuity plan outlines procedures and instructions to follow in the face of disaster, whether fire, flood or cyberattack.
 
 #### What is business continuity?
-Business continuity (BC) refers to maintaining business functions or quickly resuming them in the event of a major disruption, whether caused by a fire, flood or malicious attack by cybercriminals. A business continuity plan outlines procedures and instructions an organization must follow in the face of such disasters; it covers business processes, assets, human resources, business partners and more.
+Business continuity (BC) refers to maintaining business functions or quickly resuming them in the event of a major disruption, whether caused by a fire, flood or malicious attack by cybercriminals. It covers business processes, assets, human resources, business partners and more.
 
 Many people think a disaster recovery (DR) plan is the same as a business continuity plan, but a DR plan focuses mainly on restoring an IT infrastructure and operations after a crisis. It's actually just one part of a complete business continuity plan, as a BC plan looks at the continuity of the entire organization.
 
@@ -21,4 +21,4 @@ Whether you operate a small business or a large corporation, you strive to remai
 
 #### The importance of testing your business continuity plan
 
-Testing a plan is the only way to truly know it will work. Rigorously test a plan to know if it's complete and will fulfill its intended purpose.
+Testing a plan is the only way to truly know it will work. Rigorously test a plan to know if it's complete and if it fulfills its intended purpose. A real incident is a true test and the best way to understand if works. However, a controlled testing strategy is much more comfortable and provides an opportunity to identify gaps and improve the procedure. It is also important to ensure the objectives are measurable. Doing the minimum and 'getting away with it' leads to a weak plan and no confidence in the face of a real incident.

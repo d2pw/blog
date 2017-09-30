@@ -1,17 +1,17 @@
 ---
 layout:     post
 title:      "About Passwords"
-subtitle:   "A new NIST guideline is a great basis for secure digital identity management."
+subtitle:   "A new NIST guideline as foundation for secure digital identity management."
 date:       2017-08-13 12:00:00
 author:     "dario"
 header-img: "img/about-passwords.jpg"
 header-credit-link: https://pixabay.com/en/access-data-password-mask-matrix-694539/
 ---
-## About Passwords
+## People shouldn't dread the password
 
 The NIST released new Digital Identity Guidelines. Why is it important? Managing digital identities is an important aspect of information security. This NIST document is a great foundation on which to build a password policy. Making it easier for users to develop secure habits is in everyone’s best interest. Organizations must take it upon themselves to do all they can to promote safe yet frictionless best practices.
 
-The NIST recommends:
+**The NIST recommends:**
 
 * Removing all password complexity rules
 * A strict 8-character minimum with up to 64-character maximum
@@ -28,4 +28,4 @@ To make sure users and data are protected, organizations need to transition to m
 * **Something you have** (ex. phone)
 * **Something you are** (ex. fingerprint)
 
-With the ever-rising need to securely identify themselves to access information, users must by given simple yet secure guidelines with regards to passwords. An organization must take it upon itself to make every effort to build robust digital identity procedures. Every organization should take a look at the  [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}.
+With the ever-rising need to securely identify themselves to access information, users must by given simple yet secure guidelines regarding to passwords. An organization must take it upon itself to make every effort to build robust digital identity procedures. It begins with taking a look at the [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}.

@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      "Ransomware is out there"
+title:      "Ransomware, a growing threat"
 subtitle:   "Stop criminal organizations from putting a stop on your activities"
 date:       2017-08-15 12:00:00
 author:     "dario"
 header-img: "img/ransomware.jpg"
-header-credit-link: https://pixabay.com/en/hacker-www-binary-internet-code-1500899//
+header-credit-link: https://pixabay.com/en/hacking-cyber-crime-security-hacker-2077124/
 ---
 
 ## Protect your organization against ransomware.
@@ -13,7 +13,7 @@ Ransomware is a type of malware that, upon infection of computers or mobile devi
 
 **Cyber-attacks are neither industry nor sector specific. Organizations of all sizes can be targets.**
 
-To combat the rise in ransomware, multiple layers of security are recommended. Organizations must balance how they detect, protect and respond to ransomware attacks.  Every measure to [secure]({{ site.baseurl }}{% post_url 2017-06-15-securing-assets %}) your data infrastructure should be in place:
+Organizations must balance how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% post_url 2017-01-13-securing-assets %}) are recommended:
 
 * [**Identify Risk**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %})
 * Define Security & Privacy Policies

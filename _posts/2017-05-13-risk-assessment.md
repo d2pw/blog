@@ -8,7 +8,7 @@ header-img: "img/risk-assessment.jpg"
 header-credit-link: https://pixabay.com/en/hands-woman-keep-ipad-internet-1004271/
 ---
 
-## Why take the risk?
+## Understanding the basics of a risk assessment
 Evaluating risk is key if we are to allocate resources cost-effectively. Thus, it is important to understand risk, vulnerabilities, and threats as they apply to assets.
 
 **Asset —** An asset is what we’re trying to protect. In this case it's information, or data, which is referred to as an intangible asset. Intangible assets can include reputation and proprietary information too. It may include databases, software code, critical company records, and many other intangible items.

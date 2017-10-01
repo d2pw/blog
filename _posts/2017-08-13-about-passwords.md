@@ -19,7 +19,7 @@ The NIST released new Digital Identity Guidelines. Why is it important? Managing
 * Enabling the "Show Password" option while typing
 * Allowing the paste function in password fields
 
-Organizations that are serious about security will follow this up with a comprehensive program of user training, detailing why each measure is in place. This will make staff feel they are important partners in securing information assets.
+Organizations that are serious about security will follow this up with a comprehensive program of user training, detailing why each measure is in place. This will make staff feel they are important partners in securing information assets. Taking some time to help users understand what constitutes good password management is essential.
 
 ### Multi-Factor Authentication
 To make sure users and data are protected, organizations need to transition to multi-factor authentication, commonly referred to as 2FA (2-Factor Authentication). The NIST requires 2FA for any personal information available online. 2FA verification requires users to demonstrate at least **two** of the following:  
@@ -28,4 +28,4 @@ To make sure users and data are protected, organizations need to transition to m
 * **Something you have** (ex. phone)
 * **Something you are** (ex. fingerprint)
 
-With the ever-rising need to securely identify themselves to access information, users must by given simple yet secure guidelines regarding to passwords. An organization must take it upon itself to make every effort to build robust digital identity procedures. It begins with taking a look at the [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"}.
+With the ever-rising need to securely identify themselves to access information, users must by given simple yet secure guidelines regarding passwords. An organization must take it upon itself to make every effort to build robust digital identity procedures. Taking a look at the [NIST Digital Identity Guidelines](https://pages.nist.gov/800-63-3/sp800-63-3.html){:target="_blank"} can be time well spent.

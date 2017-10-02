@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Keep Information Systems up to date"
-subtitle:   "Keep Information Systems current & up to date."
+subtitle:   "Security is continually updated, your systems should too!"
 date:       2017-05-15 12:00:00
 author:     "dario"
 header-img: "img/keep-systems-up-to-date.jpg"
@@ -9,7 +9,7 @@ header-credit-link: https://pixabay.com/en/board-circuit-control-center-780321/
 ---
 
 
-## Keep Information Systems current & up to date
+## Keep Information Systems current
 Keeping information systems up to date is a complex process. The importance of each stage of the patch process--and the amount of time and resources you should spend on it--will depend on your organization's infrastructure, requirements and overall security posture.  
 
 * Develop an up-to-date inventory of systems.

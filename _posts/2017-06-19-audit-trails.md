@@ -2,7 +2,7 @@
 layout:     post
 title:      "Audit Trails"
 subtitle:   "Alerts, logs and audit trails."
-date:       2017-05-15 12:00:00
+date:       2017-06-19 12:00:00
 author:     "dario"
 header-img: "img/audit-logs.jpg"
 ---

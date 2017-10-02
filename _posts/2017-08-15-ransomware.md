@@ -15,14 +15,19 @@ Ransomware is a type of malware that, upon infection of computers or mobile devi
 
 Organizations must balance how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% post_url 2017-01-13-securing-assets %}) are recommended:
 
-* [**Identify Risk**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %})
-* Define Security & Privacy Policies
-* [**Customize Training & Awareness Programs**]({{ site.baseurl }}{% post_url 2017-03-13-educate-staff %})
-* Keep Information Systems current & up to date
-* [**Develop Business Continuity & Disaster Recovery Plans**]({{ site.baseurl }}{% post_url 2017-04-13-ensure-continuity %})
-* Install Preventive Controls
-* Maintain Comprehensive Logs and Audit Trails
-* [**Assess Cyber Liability Insurance**]({{ site.baseurl }}{% post_url 2017-07-26-cyber-insurance %})
+* [**Identify Risk -**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %}) Perform a Risk Assessment
+* [**Define Security & Privacy Policies -**]({{ site.baseurl }}{% post_url 2017-06-14-security-and-privacy policies %})
+	Reflect the objectives set by management
+* [**Customize Education, Training & Awareness Programs -**]({{ site.baseurl }}{% post_url 2017-03-13-educate-staff %}) Identify and adapt training for all users
+* [**Keep Information Systems current & up to date -**]({{ site.baseurl }}{% post_url 2017-05-15-keep-information-systems-current-and-up-to-date %})
+	Audit information systems & define update procedures
+* [**Develop Business Continuity & Disaster Recovery Plans -**]({{ site.baseurl }}{% post_url 2017-04-13-ensure-continuity %})
+	Backups, incident management, contingency planning
+* [**Install Preventive Controls -**]({{ site.baseurl }}{% post_url 2017-02-16-install-preventive-controls %})
+	Firewalls, endpoint security and IPS
+* [**Maintain Comprehensive Logs and Audit Trails -**]({{ site.baseurl }}{% post_url 2017-06-19-audit-trails %})
+	Alerts, logs and audit trails
+* [**Assess Cyber Liability Insurance -**]({{ site.baseurl }}{% post_url 2017-07-26-cyber-insurance %}) A last resort against catastrophic breaches
 
 Ransomware attacks should be reported to the proper authorities. In most cases authorities will strongly suggest to avoid paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question.
 

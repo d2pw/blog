@@ -9,7 +9,7 @@ header-credit-link: https://pixabay.com/en/social-media-digitization-faces-25284
 ---
 
 
-## Education and Awareness
+## Training create a security conscious culture
 
 Organizations need to be strategic and proactive in their approach to cybersecurity education and awareness training and make sure they are covering the right topics. It is important that cybersecurity training programs give people the best and most effective education possible, covering all the important aspects of cybersecurity.
 

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "About Passwords"
-subtitle:   "A new NIST guideline as foundation for secure digital identity management."
+subtitle:   "A new NIST guideline as a foundation for password policy."
 date:       2017-08-13 12:00:00
 author:     "dario"
 header-img: "img/about-passwords.jpg"

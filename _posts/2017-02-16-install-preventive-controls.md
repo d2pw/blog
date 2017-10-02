@@ -8,10 +8,10 @@ header-img: "img/install-preventive-controls.jpg"
 header-credit-link: https://pixabay.com/en/computers-information-technology-2652997/
 ---
 
-## Install Preventive Controls
+## Safeguards to detect, avoid, or minimize risks
 
 ### Firewalls
-A firewall is a network security system designed to prevent unauthorized access to or from a private network. Firewalls can be implemented as both hardware and software, or a combination of both. All messages entering or leaving the intranet pass through the firewall, which examines each message and blocks those that do not meet the specified security criteria. Next Generation Firewalls (NGFWs) blend the features of a standard firewall with quality of service (QoS) functionalities in order to provide smarter and deeper inspection.
+A firewall is a network security system designed to prevent unauthorized access to or from a private network. Firewalls can be implemented as both hardware andto avoid, detect, counteract, or minimize security risks software, or a combination of both. All messages entering or leaving the intranet pass through the firewall, which examines each message and blocks those that do not meet the specified security criteria. Next Generation Firewalls (NGFWs) blend the features of a standard firewall with quality of service (QoS) functionalities in order to provide smarter and deeper inspection.
 
 ### Intrusion prevention systems IPS
 An Intrusion Prevention System (IPS) is a network security/threat prevention technology that examines network traffic flows to detect and prevent vulnerability exploits.

@@ -45,9 +45,3 @@ What differentiates endpoint security from the well-known anti-virus software is
 * Privileged user control
 
 Endpoint security isn’t solely conducted from devices, however. Typical endpoint security solutions provide a two-pronged approach, with security software installed on a central server or management console along with software installed on individual devices.
-
-### System-Level Protection
-While it is impossible to completely block ransomware at its two most common points of entry (i.e. email and websites), steps can be taken at the system-level that will reduce (but not completely eliminate) ransomware attacks. First and foremost, it is important to note that current anti-malware products should be able to detect and block ransomware at the file and process level before data can be compromised. A well-designed anti-malware product should also be able to scan email attachments and downloads for malicious content. I emphasize should in these statements because ransomware evolves so rapidly that it is not a guarantee that even up-to-date anti-malware products will detect the latest strains.
-
-**At the Network Level**  
-At the network level, it has proved more difficult to mitigate and prevent the spread of ransomware. Firewalls that implement whitelisting or robust blacklisting will be a successful deterrent to lessening the likelihood of successful web-based malware downloads and may deter ransomware from connecting to command-and-control servers.

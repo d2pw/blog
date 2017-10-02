@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ransomware, a growing threat"
+title:      "The Growing Threat of Ransomware"
 subtitle:   "Stop criminal organizations from putting a stop on your activities"
 date:       2017-08-15 12:00:00
 author:     "dario"

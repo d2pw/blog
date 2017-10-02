@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ensure Continuity"
+title:      "Ensuring Continuity"
 subtitle:   "Plan for disaster, recover faster."
 date:       2017-04-13 12:00:00
 author:     "dario"

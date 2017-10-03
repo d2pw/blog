@@ -12,5 +12,5 @@ Audit trails maintain a record of system activity both by system and application
 
 Without appropriate audit logging, an attacker's activities can go unnoticed, and evidence of whether or not the attack led to a breach can be inconclusive.
 
-### Intrusion Detection System (IDS)
-An **Intrusion Detection System** (IDS) is a network security technology originally built for detecting vulnerability exploits against a target application or computer. The IDS monitors traffic and reports its results to an administrator, but cannot automatically take action to prevent a detected exploit from taking over the system. Attackers are capable of exploiting vulnerabilities very quickly once they enter the network, rendering the IDS an inadequate deployment for prevention device.
+**Intrusion Detection System (IDS)**  
+An Intrusion Detection System (IDS) is a network security technology originally built for detecting vulnerability exploits against a target application or computer. The IDS monitors traffic and reports its results to an administrator, but cannot automatically take action to prevent a detected exploit from taking over the system. Attackers are capable of exploiting vulnerabilities very quickly once they enter a network, rendering the IDS an inadequate deployment for prevention device, but valuable in raising the alert when suspicious activity is detected. 

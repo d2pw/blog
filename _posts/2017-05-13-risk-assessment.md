@@ -14,7 +14,7 @@ Evaluating risk is key if we are to allocate resources cost-effectively. Thus, i
 **Asset —** An asset is what we’re trying to protect. In this case it's information, or data, which is referred to as an intangible asset. Intangible assets can include reputation and proprietary information too. It may include databases, software code, critical company records, and many other intangible items.
 
 
-**Vulnerability —** A vulnerability can be a weakness or gap that can be exploited by threat to gain unauthorized access to an asset. A vulnerability is a weakness we try to resolve or mitigate with our protection efforts.
+**Vulnerability —** A vulnerability can be a weakness or gap that can be exploited by a threat to gain unauthorized access to an asset. A vulnerability is a weakness we try to resolve or mitigate with our protection efforts.
 
 **Threat —** A threat can be anything that can exploit a vulnerability, intentionally or accidentally, and obtain, damage, or destroy an asset. A threat is what we’re trying to protect against.
 
@@ -24,4 +24,4 @@ Evaluating risk is key if we are to allocate resources cost-effectively. Thus, i
 
 **Threats** may exist, but if there are no **vulnerabilities** then there is little **risk**. Similarly, you can have a **vulnerability**, but if you have no **threat**, then you have little **risk**.
 
-Accurately identifying vulnerabilities and assessing threats is critical to understanding the risks data is exposed to. Often, the amount of data potentially at risk outweighs the resources available to protect it. It is therefore important to know where to apply available resources to mitigate risk in a cost-effective and efficient manner. Risk assessment is the risk management process that assigns relative priorities for mitigation plans and there implementation.
+Accurately identifying vulnerabilities and assessing threats is critical to understanding the risks information is exposed to. Often, the amount of information potentially at risk outweighs the resources available to protect it. It is therefore important to know where to apply available resources to mitigate risk in a cost-effective and efficient manner. A risk assessment is the risk management process that assigns relative priorities for mitigation plans and there implementation.

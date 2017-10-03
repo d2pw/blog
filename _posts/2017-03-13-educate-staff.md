@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Education, Training and Awareness"
-subtitle:   "People play a critical role in an organizations security."
+subtitle:   "People play a critical role in security."
 date:       2017-03-13 12:00:00
 author:     "dario"
 header-img: "img/educate-staff.jpg"
@@ -9,16 +9,16 @@ header-credit-link: https://pixabay.com/en/social-media-digitization-faces-25284
 ---
 
 
-## Training create a security conscious culture
+## Training creates a security conscious culture
 
 Organizations need to be strategic and proactive in their approach to cybersecurity education and awareness training and make sure they are covering the right topics. It is important that cybersecurity training programs give people the best and most effective education possible, covering all the important aspects of cybersecurity.
 
-#### 5 Things Cybersecurity Training Should Help Users Understand
-* **What cybersecurity is and what technologies are involved**
-* **What tools are used to defend against them**
-* **What security vulnerabilities and risks are, as well as their implications**
-* **What the industry’s standards and regulations are**
-* **The role users play in helping keep their organization secure**
+**5 Things Cybersecurity Training Should Help People Understand:**
+* What cybersecurity is and what technologies are involved
+* What tools are used to defend against them
+* What security vulnerabilities and risks are, as well as their implications
+* What the industry’s standards and regulations are
+* The role users play in helping keep their organization secure
 
 Organizations that do not effectively support employees with the right tools and awareness are more vulnerable to carelessness, malware and targeted attacks.
 

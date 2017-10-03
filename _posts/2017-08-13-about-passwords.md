@@ -1,15 +1,14 @@
 ---
 layout:     post
-title:      "About Passwords"
+title:      "Better password policy improves security"
 subtitle:   "A new NIST guideline as a foundation for password policy."
 date:       2017-08-13 12:00:00
 author:     "dario"
 header-img: "img/about-passwords.jpg"
 header-credit-link: https://pixabay.com/en/access-data-password-mask-matrix-694539/
 ---
-## People shouldn't dread the password
-
-The NIST released new Digital Identity Guidelines. Why is it important? Managing digital identities is an important aspect of information security. This NIST document is a great foundation on which to build a password policy. Making it easier for users to develop secure habits is in everyone’s best interest. Organizations must take it upon themselves to do all they can to promote safe yet frictionless best practices.
+## Use your password policy to improve security
+The NIST released new Digital Identity Guidelines. Why is it important? Managing digital identities is an important aspect of information security. This NIST document is a great foundation on which to build a password policy. Enabling users to develop their security skills is in everyone’s best interest. Organizations must take it upon themselves to do all they can to promote safe yet frictionless best practices.
 
 **The NIST recommends:**
 

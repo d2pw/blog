@@ -5,7 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
 
-    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{{ site.title_name }} • {{ site.title }}{% if page.title %} • {{ page.title }}{% endif %}</title>
+
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/img/chklst.png"/>
+    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ site.baseurl }}/favicon.ico"/>
+    <link rel="icon" href="{{ site.baseurl }}/favicon.ico">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
@@ -29,6 +33,22 @@
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="{{ site.twitter_username }}" />
+    <meta name="twitter:title" content="{{ site.title_name }} • {{ site.title }}{% if page.title %} • {{ page.title }}{% endif %}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+    <meta name="twitter:creator" content="{{ site.author }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/img/chklst.png" />
+
+    <!-- Open Graph data -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ site.title_name }} • {{ site.title }}{% if page.title %} • {{ page.title }}{% endif %}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image:secure_url" content="{{ site.url }}{{ site.baseurl }}/img/chklst.png" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:site_name" content="{{ site.title_name }} • {{ site.title }}" />
 
     {% feed_meta %}
 

@@ -1,10 +1,10 @@
 # Site settings
-title: Blog
+title: Resources
 header-img: img/home-bg.jpg
 email: contact@dario.com
 copyright_name:
-description: "BLOG dario.com Understand - Take Action. Security is a business requirement. Protecting privacy is good business"
-baseurl: "/blog"
+description: "Security is a business requirement. Protecting privacy is good business. Understand the threats to your information - Take Action to protect your data and business."
+baseurl: "/Resources"
 url: "https://dario.pw"
 twitter_username: darioS3C
 github_username:

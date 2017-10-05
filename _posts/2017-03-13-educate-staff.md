@@ -22,4 +22,4 @@ Organizations need to be strategic and proactive in their approach to cybersecur
 
 Organizations that do not effectively support employees with the right tools and awareness are more vulnerable to carelessness, malware and targeted attacks.
 
-Users have a critical role to play in their organization’s security. It is important that security guidelines and the technology provided enable users to do their job as well as help keep the organization secure. This can be supported by awareness programs and training that deliver security expertise as well helping to establish a security-conscious culture.
+Users have a critical role to play in their organization’s security. It is important that security guidelines and the technology provided enable users to do their job, as well as help keep the organization secure. This can be supported by awareness programs and training that deliver security expertise and establish a security-conscious culture.

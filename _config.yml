@@ -8,10 +8,10 @@ copyright_name: dario • Security • Privacy
 description: "Security is a business requirement. Protecting privacy is good business. Take Action — Protect your data and business."
 baseurl: "/resources"
 url: "https://dario.pw"
-twitter_username: darioS3C
+twitter_username:
 github_username:
 facebook_username:
-email_username:  contact@dario.com
+email_username:
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID

@@ -5,6 +5,7 @@ subtitle:   "Plan for disaster, recover faster."
 date:       2017-04-13 12:00:00
 author:     "dario"
 header-img: "img/ensure-continuity.jpg"
+header-credit-link:
 ---
 
 ## Develop Business Continuity & Disaster Recovery Plans

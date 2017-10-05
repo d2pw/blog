@@ -11,10 +11,10 @@ header-credit-link: https://pixabay.com/en/social-media-digitization-faces-25284
 
 ## Training creates a security conscious culture
 
-Organizations need to be strategic and proactive in their approach to cybersecurity education and awareness training and make sure they are covering the right topics. It is important that cybersecurity training programs give people the best and most effective education possible, covering all the important aspects of cybersecurity.
+Organizations need to be strategic and proactive in their approach to security education and awareness training and make sure they are covering the right topics. It is important that security training programs give people the best and most effective education possible, covering all the important aspects of information security.
 
-**5 Things Cybersecurity Training Should Help People Understand:**
-* What cybersecurity is and what technologies are involved
+**5 Things information security training should help people understand:**
+* What information security is and what technologies are involved
 * What tools are used to defend against them
 * What security vulnerabilities and risks are, as well as their implications
 * What the industry’s standards and regulations are

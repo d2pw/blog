@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ensuring Continuity"
+title:      "Ensuring continuity ensures your organization"
 subtitle:   "Plan for disaster, recover faster."
 date:       2017-04-13 12:00:00
 author:     "dario"
@@ -8,8 +8,8 @@ header-img: "img/ensure-continuity.jpg"
 header-credit-link:
 ---
 
-## Develop Business Continuity & Disaster Recovery Plans
-A business continuity plan outlines procedures and instructions to follow in the face of disaster, whether fire, flood or cyberattack.
+## Develop business continuity and disaster recovery plans
+A business continuity plan outlines procedures and instructions to follow in the face of disaster.
 
 #### What is business continuity?
 Business continuity (BC) refers to maintaining business functions or quickly resuming them in the event of a major disruption, whether caused by a fire, flood or malicious attack by cybercriminals. It covers business processes, assets, human resources, business partners and more.

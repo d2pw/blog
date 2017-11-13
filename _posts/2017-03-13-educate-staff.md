@@ -3,6 +3,7 @@ layout:     post
 title:      "Education, training and awareness"
 subtitle:   "People play a critical role in security."
 date:       2017-03-13 12:00:00
+permalink:  educate-staff
 author:     "dario"
 header-img: "img/education-training-awareness.jpg"
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/
@@ -13,7 +14,7 @@ header-credit-link: https://pixabay.com/en/social-media-digitization-faces-25284
 
 Organizations need to be strategic and proactive in their approach to security education and awareness training, and make sure they are covering the right topics. It is important that security training programs give people the best and most effective education possible, covering all the important aspects of information security.
 
-**5 Things information security training should help people understand:**
+**5 things information security training should help people understand:**
 1. What information security is and what technologies are involved
 2. What tools are used to defend against them
 3. What security vulnerabilities and risks are, as well as their implications

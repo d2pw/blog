@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      "Audit Trails — evidence of an attack"
+title:      "Audit trails — digital forensic investigations"
 subtitle:   "Logs and audit trails help understand what happened."
 date:       2017-06-19 12:00:00
+permalink:  audit-trails
 author:     "dario"
 header-img: "img/security-audit-logs.jpg"
 header-credit-link:

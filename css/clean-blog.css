@@ -266,14 +266,14 @@ hr.small {
   border-bottom-left-radius: 5px;
 }
 footer {
-  padding: 50px 0 65px;
+  padding: 20px 0 20px;
 }
 footer .list-inline {
   margin: 0;
   padding: 0;
 }
 footer .copyright {
-  font-size: 14px;
+  font-size: 12px;
   text-align: center;
   margin-bottom: 0;
 }

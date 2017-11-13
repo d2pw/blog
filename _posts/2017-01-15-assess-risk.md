@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Assess Risk to manage it"
+title:      "Assess risk to help manage it"
 subtitle:   "Create the foundation of your risk management program."
 date:       2017-01-15 12:00:00
 author:     "dario"

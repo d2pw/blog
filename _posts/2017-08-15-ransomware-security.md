@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The growing security threat of ransomware"
-subtitle:   "Stop criminal organizations from putting a stop on your activities."
+subtitle:   "Stop cybercriminals from putting a stop on your activities."
 date:       2017-08-15 12:00:00
 author:     "dario"
 header-img: "img/ransomware-security.jpg"
@@ -16,10 +16,10 @@ Ransomware is a type of malware that, when it infects computers, restricts user 
 Organizations must balance how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% post_url 2017-01-13-securing-assets %}) are recommended:
 
 * [**Identify risk -**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %}) Carry out a risk assessment
-* [**Define security and privacy policies -**]({{ site.baseurl }}{% post_url 2017-06-14-security-and-privacy policies %})
+* [**Define security and privacy policies -**]({{ site.baseurl }}{% post_url 2017-06-14-security-and-privacy-policies %})
 	Reflect the objectives set by management
 * [**Customize education, training and awareness programs -**]({{ site.baseurl }}{% post_url 2017-03-13-educate-staff %}) Identify and adapt training for all users
-* [**Keep information systems current and up to date -**]({{ site.baseurl }}{% post_url 2017-05-15-keep-information-systems-current-and-up-to-date %})
+* [**Keep information systems current and up to date -**]({{ site.baseurl }}{% post_url 2017-05-15-keep-information-systems-up-to-date %})
 	Audit information systems and define update procedures
 * [**Develop business continuity and disaster recovery plans -**]({{ site.baseurl }}{% post_url 2017-04-13-ensure-continuity %})
 	Backups, incident management, contingency planning

@@ -3,6 +3,7 @@ layout:     post
 title:      "Cyber and privacy liability insurance"
 subtitle:   "Protection against catastrophic losses."
 date:       2017-07-26 12:00:00
+permalink:  cyber-insurance
 author:     "dario"
 header-img: "img/cyber-insurance.jpg"
 header-credit-link: https://pixabay.com/en/matrix-earth-global-international-2502958/

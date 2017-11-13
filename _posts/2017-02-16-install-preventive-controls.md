@@ -3,6 +3,7 @@ layout:     post
 title:      "Install preventive controls to minimize risk"
 subtitle:   "Prevention has many forms."
 date:       2017-02-16 12:00:00
+permalink:  install-preventive-controls
 author:     "dario"
 header-img: "img/install-preventive-controls.jpg"
 header-credit-link: https://pixabay.com/en/computers-information-technology-2652997/

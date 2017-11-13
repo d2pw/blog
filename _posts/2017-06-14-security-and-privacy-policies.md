@@ -3,12 +3,13 @@ layout:     post
 title:      "Security and privacy policies"
 subtitle:   "Define security and privacy policies to set the example."
 date:       2017-06-14 12:00:00
+permalink:  security-and-privacy-policies
 author:     "dario"
 header-img: "img/security-and-privacy-policies.jpg"
 header-credit-link: https://pixabay.com/en/castle-privacy-policy-security-538722/
 ---
 
-## Security and Privacy policies are an important first step
+## Security and privacy policies are an important first step
 
 **Security policy**  
 The objective of an IT security policy is the preservation of the confidentiality, the integrity, and the availability of systems and information used by an organization’s members. These three principles compose the "CIA" triad:

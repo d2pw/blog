@@ -1,8 +1,9 @@
 ---
 layout:     post
-title:      "Securing assets — adopt layered security "
+title:      "Securing assets — defense in depth"
 subtitle:   "There is no security silver bullet."
 date:       2017-01-13 12:00:00
+permalink:  securing-assets
 author:     "dario"
 header-img: "img/securing-assets.jpg"
 header-credit-link: https://pixabay.com/en/head-skull-blow-resolution-resolve-2709732/
@@ -17,11 +18,11 @@ Using multiple layers together, and combining them in a coordinated effort can s
 
 **Steps in conceiving an effective prevention program include:**
 
-* [**Identify risk -**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %}) Carry out risk assessment
-* [**Define security and privacy policies -**]({{ site.baseurl }}{% post_url 2017-06-14-security-and-privacy policies %})
+* [**Identify risk -**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %}) Carry out a risk assessment
+* [**Define security and privacy policies -**]({{ site.baseurl }}{% post_url 2017-06-14-security-and-privacy-policies %})
 	Reflect the objectives set by management
 * [**Customize education, training and awareness programs -**]({{ site.baseurl }}{% post_url 2017-03-13-educate-staff %}) Identify and adapt training for all users
-* [**Keep information systems current and up to date -**]({{ site.baseurl }}{% post_url 2017-05-15-keep-information-systems-current-and-up-to-date %})
+* [**Keep information systems current and up to date -**]({{ site.baseurl }}{% post_url 2017-05-15-keep-information-systems-up-to-date %})
 	Audit information systems and define your update and patching procedures
 * [**Develop business continuity and disaster recovery plans -**]({{ site.baseurl }}{% post_url 2017-04-13-ensure-continuity %})
 	Backups, incident management, contingency planning

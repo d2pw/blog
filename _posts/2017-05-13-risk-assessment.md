@@ -1,15 +1,16 @@
 ---
 layout:     post
-title:      "Risk assessment — a first step"
+title:      "Risk assessment — the first step"
 subtitle:   "Evaluating the risks you face to cost-effectively protect your data."
 date:       2017-05-13 12:00:00
+permalink:  risk-assessment
 author:     "dario"
 header-img: "img/risk-assessment.jpg"
 header-credit-link: https://pixabay.com/en/hands-woman-keep-ipad-internet-1004271/
 ---
 
 ## Understanding the basics of a risk assessment
-Evaluating risk is key if we are to allocate resources cost-effectively. therefore, it is important to understand risk, vulnerabilities, and threats as they apply to assets.
+Evaluating risk is key if we are to allocate resources cost-effectively. Therefore, it is important to understand risk, vulnerabilities, and threats as they apply to assets.
 
 **Asset —** An asset is what we’re trying to protect. In this case, it's information, or data, which is referred to as an intangible asset. Intangible assets can include reputation and proprietary information too. They may include databases, software code, critical company records, and many other intangible items.
 

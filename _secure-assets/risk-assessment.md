@@ -2,8 +2,8 @@
 layout:     post
 title:      "Risk assessment — the first step"
 subtitle:   "Evaluating the risks you face to cost-effectively protect your data."
-date:       2017-05-13 12:00:00
-permalink:  risk-assessment
+date:       2017-01-15 12:00:00
+permalink:  /risk-assessment
 author:     "dario"
 header-img: "img/risk-assessment.jpg"
 header-credit-link: https://pixabay.com/en/hands-woman-keep-ipad-internet-1004271/

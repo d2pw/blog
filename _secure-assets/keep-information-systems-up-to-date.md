@@ -2,8 +2,8 @@
 layout:     post
 title:      "Keep information systems up to date"
 subtitle:   "Security is continually updated; your systems should be too!"
-date:       2017-05-15 12:00:00
-permalink:  keep-information-systems-up-to-date
+date:       2017-02-13 12:00:00
+permalink:  /keep-information-systems-up-to-date
 author:     "dario"
 header-img: "img/keep-information-systems-up-to-date.jpg"
 header-credit-link: https://pixabay.com/en/board-circuit-control-center-780321/

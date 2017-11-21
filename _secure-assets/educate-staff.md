@@ -2,8 +2,8 @@
 layout:     post
 title:      "Education, training and awareness"
 subtitle:   "People play a critical role in security."
-date:       2017-03-13 12:00:00
-permalink:  educate-staff
+date:       2017-01-19 12:00:00
+permalink:  /educate-staff
 author:     "dario"
 header-img: "img/education-training-awareness.jpg"
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/

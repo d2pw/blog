@@ -2,8 +2,8 @@
 layout:     post
 title:      "Install preventive controls to minimize risk"
 subtitle:   "Prevention has many forms."
-date:       2017-02-16 12:00:00
-permalink:  install-preventive-controls
+date:       2017-02-17 12:00:00
+permalink:  /install-preventive-controls
 author:     "dario"
 header-img: "img/install-preventive-controls.jpg"
 header-credit-link: https://pixabay.com/en/computers-information-technology-2652997/
@@ -20,7 +20,7 @@ An IPS is a network-security/threat-prevention technology that examines network 
 **Prevention**  
 The IPS often sits directly behind the firewall and provides a complementary layer of analysis that negatively selects for dangerous content. Specifically, these actions include:
 
-* Sending an alarm to the administrator (as would be seen in an [**IDS**]({{ site.baseurl }}{% post_url 2017-06-19-audit-trails %}))
+* Sending an alarm to the administrator (as would be seen in an [**IDS**]({{ site.baseurl }}{% link _secure-assets/audit-trails.md %}))
 * Dropping the malicious packets
 * Blocking traffic from the source address
 * Resetting the connection

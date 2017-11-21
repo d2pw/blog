@@ -3,7 +3,7 @@ layout:     post
 title:      "Assess Risk"
 subtitle:   "Create the foundation of your risk management program."
 date:       1000-01-21 12:00:00
-permalink:  assess-risk
+permalink:  /assess-risk
 author:     "dario"
 header-img: "img/assess-risk.jpg"
 header-credit-link: https://pixabay.com/en/hand-magnifying-glass-earth-globe-1248053/
@@ -31,4 +31,4 @@ An intangible asset is a non-monetary asset that is not physical in nature. Inte
 
 The quote by McGeorge Bundy illustrates this, comparing toothbrushes to diamonds. A more contemporary  situation would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing client medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information system, resulting in client medical records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations and fines) as well as on their reputation.
 
-By analyzing the exposure of data to threats and vulnerabilities, informed decisions help mitigate the risks to essential information. A [**risk assessment**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %}) is a valuable tool for an organization deciding how to counter risks to one of its most important asset: information.
+By analyzing the exposure of data to threats and vulnerabilities, informed decisions help mitigate the risks to essential information. A [**risk assessment**]({{ site.baseurl }}{% link _secure-assets/risk-assessment.md %}) is a valuable tool for an organization deciding how to counter risks to one of its most important asset: information.

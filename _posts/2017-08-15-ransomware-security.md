@@ -13,21 +13,16 @@ Ransomware is a type of malware that, when it infects computers, restricts user 
 
 **Cyber-attacks are neither industry nor sector specific. Organizations of all sizes can be targets.**
 
-Organizations must balance how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% post_url 2017-01-13-securing-assets %}) are recommended:
+Organizations must balance how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) are recommended:
 
-* [**Identify risk -**]({{ site.baseurl }}{% post_url 2017-05-13-risk-assessment %}) Carry out a risk assessment
-* [**Define security and privacy policies -**]({{ site.baseurl }}{% post_url 2017-06-14-security-and-privacy-policies %})
-	Reflect the objectives set by management
-* [**Customize education, training and awareness programs -**]({{ site.baseurl }}{% post_url 2017-03-13-educate-staff %}) Identify and adapt training for all users
-* [**Keep information systems current and up to date -**]({{ site.baseurl }}{% post_url 2017-05-15-keep-information-systems-up-to-date %})
-	Audit information systems and define update procedures
-* [**Develop business continuity and disaster recovery plans -**]({{ site.baseurl }}{% post_url 2017-04-13-ensure-continuity %})
-	Backups, incident management, contingency planning
-* [**Install preventive controls -**]({{ site.baseurl }}{% post_url 2017-02-16-install-preventive-controls %})
-	Firewalls and endpoint security
-* [**Maintain comprehensive logs and audit trails -**]({{ site.baseurl }}{% post_url 2017-06-19-audit-trails %})
-	Alerts, logs and audit trails
-* [**Evaluate cyber liability insurance -**]({{ site.baseurl }}{% post_url 2017-07-26-cyber-insurance %}) A last resort against catastrophic breaches
+* **Identify risk -** Carry out a risk assessment
+* **Define security and privacy policies -** Reflect the objectives set by management
+* **Customize education, training and awareness programs -** Identify and adapt training for all users
+* **Keep information systems current and up to date -** Audit information systems and define update procedures
+* **Develop business continuity and disaster recovery plans -** Backups, incident management, contingency planning
+* **Install preventive controls -** Firewalls and endpoint security
+* **Maintain comprehensive logs and audit trails -** Alerts, logs and audit trails
+* **Evaluate cyber liability insurance -** A last resort against catastrophic breaches
 
 Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question.
 

@@ -3,7 +3,7 @@ layout:     post
 title:      "Ensure Continuity"
 subtitle:   "Develop procedures to mitigate potential incidents."
 date:       1000-01-24 12:00:00
-permalink:  ensure-continuity
+permalink:  /ensure-continuity
 author:     "dario"
 header-img: "img/ensure-continuity.jpg"
 header-credit-link:

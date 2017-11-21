@@ -2,8 +2,8 @@
 layout:     post
 title:      "Security and privacy policies"
 subtitle:   "Define security and privacy policies to set the example."
-date:       2017-06-14 12:00:00
-permalink:  security-and-privacy-policies
+date:       2017-01-17 12:00:00
+permalink:  /security-and-privacy-policies
 author:     "dario"
 header-img: "img/security-and-privacy-policies.jpg"
 header-credit-link: https://pixabay.com/en/castle-privacy-policy-security-538722/

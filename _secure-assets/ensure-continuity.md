@@ -2,8 +2,9 @@
 layout:     post
 title:      "Ensuring continuity ensures your organization"
 subtitle:   "Plan for disaster, recover faster."
-date:       2017-04-13 12:00:00
+date:       2017-02-15 12:00:00
 author:     "dario"
+permalink:  /ensuring-continuity
 header-img: "img/ensure-continuity.jpg"
 header-credit-link:
 ---

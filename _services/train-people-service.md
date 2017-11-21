@@ -1,15 +1,15 @@
 ---
 layout:     post
 title:      "Train People"
-subtitle:   "Train people to identify risk and respond in a professional manner."
+subtitle:   "We train people to identify risk and respond in a professional manner."
 date:       1000-01-23 12:00:00
-permalink:  train-people
+permalink:  /train-people
 author:     "dario"
 header-img: "img/education-training-awareness.jpg"
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/
 ---
 
-## We make employees part of the solution
+## Make your staff part of the solution
 With so many security threats on the horizon, organizations can minimize risk with a security awareness program offering employees the knowledge they need to better protect information systems through proactive, security-conscious behavior. To successfully protect information assets, employees at every level — from the top down — need a basic understanding of security policies as well as their respective responsibilities in protecting these assets.
 
 To be effective, a security awareness program must be ongoing and include continuous training, communication and reinforcement. A one-time presentation or a static set of activities is not sufficient to address the ever-evolving threats to the security landscape. The key messages, tone and approach must be relevant to the audience and consistent with the values and goals of the organization. Equally important, an awareness program must influence behavior changes that deliver measurable benefits.

@@ -23,7 +23,7 @@ Layered security, also known as layered defense, describes the practice of combi
 * **Keep information systems current and up to date -** Audit information systems and define update procedures
 * **Install preventive controls -** Install Firewalls, endpoint security and activity monitors  
 
-### We prepare you to avoid a crisis
+### We help you avoid a crisis
 Organizations of all sizes need to determine their key information assets, identify where vulnerabilities lie and design security that will protect them from accidental loss or cyberattack. Systems should be able to detect any breach they may face. Putting in place a comprehensive plan is what sets apart an entity which recovers from an incident or cyberattack from one which may fail.
 
 To hear how we can help you ensure that appropriate measures are in place to protect the confidentiality, integrity and availability of your information get in touch. [**Contact us**]({{ site.baseurl }}/contact)

@@ -23,13 +23,17 @@ This recent article by The World Economic Forum, [The value of data](https://www
 > #### In this age of hyper connected consumers, data is definitely the new age ‘oil’.
 -- <cite>World Economic Forum</cite>
 
-The world produces 2.5 quintillion bytes of information each day. Data is an intangible asset, a non-monetary asset that is not physical in nature. Intellectual property, including patents, trademarks, copyrights and business methodologies, are intangible assets too. Protecting intellectual property, critical company data or reputation against risk, is a business requirement. How can your organization effectively assign the limited resources available to optimally secure its valuable data, intellectual property or reputation? By identifying critical data, business processes and people, organizations can focus their efforts on securing key elements against threat efficiently and effectively.
+The world produces 2.5 quintillion bytes of information each day. Data is an intangible asset, a non-monetary asset that is not physical in nature. Intellectual property, including patents, trademarks, copyrights and business methodologies, are intangible assets too. Protecting intellectual property, critical company data or reputation against risk, is a business requirement.
+
+**Identify critical data, business processes and people**  
+How can your organization effectively assign the limited resources available to optimally secure its valuable data, intellectual property or reputation? By identifying critical data, business processes and people, organizations can focus their efforts on securing key elements against threat efficiently and effectively.
 
 > #### If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
 -- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
 
 The quote by McGeorge Bundy illustrates this, comparing toothbrushes to diamonds. A contemporary situation would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing client medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in client medical records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations and fines) as well as on their reputation.
 
+### We help you better perceive risk
 By analyzing the exposure of data to threats and vulnerabilities, informed decisions help mitigate the risks to essential information. A **risk assessment** is a valuable tool and the first step for an organization deciding how to counter risks to one of its most important asset: information.
 
 To hear how we can help you create and maintain a resilient risk management program, get in touch. [**Contact us**]({{ site.baseurl }}/contact)

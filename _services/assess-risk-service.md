@@ -33,7 +33,7 @@ How can your organization effectively assign the limited resources available to 
 
 The quote by McGeorge Bundy illustrates this, comparing toothbrushes to diamonds. A contemporary situation would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing client medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in client medical records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations and fines) as well as on their reputation.
 
-### We help you better perceive risk
+### We help you to better perceive risk
 By analyzing the exposure of data to threats and vulnerabilities, informed decisions help mitigate the risks to essential information. A **risk assessment** is a valuable tool and the first step for an organization deciding how to counter risks to one of its most important asset: information.
 
 To hear how we can help you create and maintain a resilient risk management program, get in touch. [**Contact us**]({{ site.baseurl }}/contact)

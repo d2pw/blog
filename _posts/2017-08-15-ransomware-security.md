@@ -13,7 +13,7 @@ Ransomware is a type of malware that, when it infects computers, restricts user 
 
 **Cyber-attacks are neither industry nor sector specific. Organizations of all sizes can be targets.**
 
-Organizations must balance how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) are recommended:
+Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) is a recommended approach:
 
 * **Identify risk -** Carry out a risk assessment
 * **Define security and privacy policies -** Reflect the objectives set by management
@@ -24,6 +24,6 @@ Organizations must balance how they detect, protect and respond to ransomware at
 * **Maintain comprehensive logs and audit trails -** Alerts, logs and audit trails
 * **Evaluate cyber liability insurance -** A last resort against catastrophic breaches
 
-Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question.
+Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack is a preferable approach.
 
 To hear how we can help you minimize risk, get in touch. [**Contact us**]({{ site.baseurl }}/contact)

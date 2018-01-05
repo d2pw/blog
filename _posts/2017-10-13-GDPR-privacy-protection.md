@@ -2,7 +2,8 @@
 layout:     post
 title:      "GDPR: European privacy protection"
 subtitle:   "Unified EU privacy rules are a step in the right direction."
-date:       2017-06-13 12:00:00
+date:       2017-10-13 12:00:00
+permalink:  /GDPR
 author:     "dario"
 header-img: "img/GDPR-privacy-protection.jpg"
 header-credit-link:

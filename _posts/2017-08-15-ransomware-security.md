@@ -3,7 +3,7 @@ layout:     post
 title:      "The growing security threat of ransomware"
 subtitle:   "Stop cybercriminals from putting a stop on your activities."
 date:       2017-08-15 12:00:00
-permalink:  /ransomware-security
+permalink:  /ransomware-security/
 author:     "dario"
 header-img: "img/ransomware-security.jpg"
 header-credit-link: https://pixabay.com/en/hacking-cyber-crime-security-hacker-2077124/

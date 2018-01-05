@@ -3,7 +3,7 @@ layout:     post
 title:      "Better password policy improves security"
 subtitle:   "A new NIST guideline as a foundation for password policy."
 date:       2017-09-13 12:00:00
-permalink:  /better-password-security/
+permalink:  /better-password-security
 author:     "dario"
 header-img: "img/better-password-security.jpg"
 header-credit-link: https://pixabay.com/en/access-data-password-mask-matrix-694539/

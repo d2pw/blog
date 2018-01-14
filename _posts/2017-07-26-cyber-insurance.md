@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Cyber and privacy liability insurance"
-subtitle:   "Protection against catastrophic losses."
+subtitle:   "Protection against major incidents."
 date:       2017-07-26 12:00:00
 permalink:  /cyber-insurance
 author:     "dario"

@@ -6,7 +6,10 @@ date:       2017-08-15 12:00:00
 permalink:  /ransomware-security
 author:     "dario"
 header-img: "img/ransomware-security.jpg"
+header-title:
+header-author:
 header-credit-link: https://pixabay.com/en/hacking-cyber-crime-security-hacker-2077124/
+header-license:  CC0
 ---
 
 ## Protect your organization against ransomware
@@ -14,16 +17,16 @@ Ransomware is a type of malware that, when it infects computers, restricts user 
 
 **Cyber-attacks are neither industry nor sector specific. Organizations of all sizes can be targets.**
 
-Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) is a recommended approach:
+Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) is a recommended approach to protect an organization from a wide variety of risks:
 
 * **Identify risk -** Carry out a risk assessment
 * **Define security and privacy policies -** Reflect the objectives set by management
-* **Customize education, training and awareness programs -** Identify and adapt training for all users
+* **Customize education, training and awareness programs -** Identify and adapt training for all users profiles
 * **Keep information systems current and up to date -** Audit information systems and define update procedures
 * **Develop business continuity and disaster recovery plans -** Backups, incident management, contingency planning
-* **Install preventive controls -** Firewalls and endpoint security
+* **Install preventive controls -** Firewalls, endpoint security
 * **Maintain comprehensive logs and audit trails -** Alerts, logs and audit trails
-* **Evaluate cyber liability insurance -** A last resort against catastrophic breaches
+* **Evaluate cyber liability insurance -** Protection in case of major breaches
 
 Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack is a preferable approach.
 

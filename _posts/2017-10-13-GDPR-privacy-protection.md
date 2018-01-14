@@ -6,12 +6,15 @@ date:       2017-10-13 12:00:00
 permalink:  /GDPR
 author:     "dario"
 header-img: "img/GDPR-privacy-protection.jpg"
+header-title:
+header-author:
 header-credit-link:
+header-license:  CC0
 ---
 
 ## GDPR: General Data Protection Regulation
 
-The GDPR - General Data Protection Regulation - is in the news this year. Personal data protection in Europe is nothing new. With the new GDPR regulation, the European Commission, European Parliament and the Council for the European Union have set out to strengthen and unify legal protection of people’s personally identifiable information (PII). The new GDPR also addresses the export of personal data outside the EU. The GDPR aims to give control back to citizens and residents over their personal data and to simplify the regulatory environment for international business, by unifying the regulation within the EU. The GDPR takes effect May 25, 2018, after a two-year transition period.
+GDPR - General Data Protection Regulation - is in the news. Personal data protection in Europe is nothing new. With the new GDPR regulation, the European Commission, European Parliament and the Council for the European Union have set out to strengthen and unify legal protection of people’s personally identifiable information (PII). The new GDPR also addresses the export of personal data outside the EU. The GDPR aims to give control back to citizens and residents over their personal data and to simplify the regulatory environment for international business, by unifying the regulation within the EU. The GDPR takes effect May 25, 2018, after a two-year transition period.
 
 ### Steps towards compliance
 **Plan the GDPR compliance process —** It is important to define the process an organization will take towards reaching full compliance. Not only does it set down internal goals, it demonstrates to local Data Protection Associations (DPA), responsible for enforcing GDPR in each country, that your organization is serious about compliance.

@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     services
 title:      "Train People"
 subtitle:   "We train people to identify risk and respond in a professional manner."
 date:       1000-01-23 12:00:00

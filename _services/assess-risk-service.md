@@ -1,5 +1,5 @@
 ---
-layout:     post
+layout:     services
 title:      "Assess Risk"
 subtitle:   "Create the foundation of your risk management program."
 date:       1000-01-21 12:00:00

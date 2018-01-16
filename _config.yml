@@ -1,6 +1,6 @@
 # Site settings
 title: Resources
-header-img: img/home-bg.jpg
+header-img: img/home.jpg
 author: dario
 email: contact@dario.com
 title_name: dario.pw
@@ -12,11 +12,7 @@ twitter_username: darioS3C
 github_username:
 facebook_username:
 email_username:
-
-# Google Analytics
-# To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-98131817-4
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -24,9 +20,8 @@ permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 collections:
-  services:
-    output: true
-  #secure-assets:
+   services:
+     output: true
+  # secure-assets:
   #  output: true
-
 gems: [jekyll-paginate, jekyll-feed]

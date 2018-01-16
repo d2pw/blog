@@ -2,14 +2,14 @@
 layout:     post
 title:      "Ransomware: a growing security threat"
 subtitle:   "Organizations of all sizes can be targets."
-date:       2017-08-15 12:00:00
+date:       2017-12-15 12:00:00
 permalink:  /ransomware-security
 author:     "dario"
 header-img: "img/ransomware-security.jpg"
 header-title:
 header-author:
 header-credit-link: https://pixabay.com/en/hacking-cyber-crime-security-hacker-2077124/
-header-license:  CC0
+header-license:  CC0 Creative Commons
 ---
 
 ## Protect your organization against ransomware
@@ -28,8 +28,8 @@ Organizations need to define how they detect, protect and respond to ransomware 
 * **Keep information systems current and up to date -** Audit information systems and define update procedures
 * **Develop business continuity and disaster recovery plans -** Backups, incident management, contingency planning
 * **Install preventive controls -** Firewalls, endpoint security
-* **Maintain comprehensive logs and audit trails -** Alerts, logs and audit trails
-* **Evaluate cyber liability insurance -** Protection in case of major breaches
+* **Maintain comprehensive logs and audit trails -** Log all suspicious activity
+* **Evaluate cyber liability insurance -** Protection against losses due to fraud
 
 Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack will always be preferable to the alternative of having to deal with the consequences of being a victim.
 

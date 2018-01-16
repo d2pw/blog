@@ -2,11 +2,14 @@
 layout:     services
 title:      "Training Staff"
 subtitle:   "Prepare staff to identify risk and to respond professionally."
-date:       1000-01-23 12:00:00
+date:       2017-01-23 12:00:00
 permalink:  /training-staff
 author:     "dario"
-header-img: "img/education-training-awareness.jpg"
+header-img: "img/training-staff.jpg"
+header-title:
+header-author:
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/
+header-license: CC0 Creative Commons
 ---
 
 ## Make people part of the solution
@@ -29,10 +32,10 @@ Answering these questions will help organizations define objectives and goals of
 We can raise your employee’s security awareness by evaluating the current environment and proposing measures that are aimed at making employees aware of the role they play in keeping assets safe.
 
 **We do this by:**
-* **Conducting employee security awareness evaluations based on their roles and responsibilities**
-* **Designing specific security awareness programs based on individual responsibilities**
-* **Implementing programs with training and maintaining ongoing feedback to reinforce best practices**
-* **Empowering people with self-efficacy**
+* Conducting employee security awareness evaluations based on their roles and responsibilities
+* Designing specific security awareness programs based on individual responsibilities
+* Implementing programs with training and maintaining ongoing feedback to reinforce best practices
+* Empowering people with self-efficacy
 
 With the right training, employees can become an organization's strongest security asset.
 

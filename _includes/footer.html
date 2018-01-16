@@ -5,7 +5,7 @@
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
                    <li>
-                       <a href="{{ site.baseurl }}/contact/">
+                       <a href="{{ site.baseurl }}/contact">
                            <span class="fa-stack fa-lg">
                                <i class="fa fa-circle fa-stack-2x"></i>
                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -56,7 +56,12 @@
                 <p class="copyright text-muted">
                   &copy; 20{{ site.time | date: '%y' }} {{ site.copyright_name }}
                   {% if page.header-credit-link%} •
-                      <a href="{{ page.header-credit-link}}" target="_blank" >Header image</a> attribution
+                      <a href="{{ page.header-credit-link}}" target="_blank" >Header image</a>
+                      {% if page.header-license%}
+                          - {{ page.header-license}}
+                      {% else %}
+                          attribution
+                      {% endif %}
                   {% else %}
                       .
                   {% endif %}

@@ -2,11 +2,14 @@
 layout:     services
 title:      "Protect Assets"
 subtitle:   "Design security measures to protect your data."
-date:       1000-01-22 12:00:00
+date:       2017-01-22 12:00:00
 permalink:  /protect-assets
 author:     "dario"
-header-img: "img/install-preventive-controls.jpg"
+header-img: "img/protect-assets.jpg"
+header-title:
+header-author:
 header-credit-link: https://pixabay.com/en/computers-information-technology-2652997/
+header-license: CC0 Creative Commons
 ---
 
 ## We ensure the availability of your information

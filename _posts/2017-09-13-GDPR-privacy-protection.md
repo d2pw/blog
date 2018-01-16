@@ -2,14 +2,14 @@
 layout:     post
 title:      "GDPR: European privacy protection"
 subtitle:   "Unified European privacy rules."
-date:       2017-10-13 12:00:00
+date:       2017-09-13 12:00:00
 permalink:  /GDPR
 author:     "dario"
 header-img: "img/GDPR-privacy-protection.jpg"
 header-title:
 header-author:
 header-credit-link:
-header-license:  CC0
+header-license:
 ---
 
 ## GDPR: General Data Protection Regulation

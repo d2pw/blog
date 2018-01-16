@@ -2,11 +2,14 @@
 layout:     services
 title:      "Assess Risk"
 subtitle:   "The foundation of a risk management program."
-date:       1000-01-21 12:00:00
+date:       2017-01-21 12:00:00
 permalink:  /assess-risk
 author:     "dario"
 header-img: "img/assess-risk.jpg"
+header-title:
+header-author:
 header-credit-link: https://pixabay.com/en/hand-magnifying-glass-earth-globe-1248053/
+header-license: CC0 Creative Commons
 ---
 
 ## Data is one of your most valuable assets

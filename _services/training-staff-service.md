@@ -1,9 +1,9 @@
 ---
 layout:     services
-title:      "Train People"
-subtitle:   "We train people to identify risk and respond in a professional manner."
+title:      "Training Staff"
+subtitle:   "Prepare staff to identify risk and to respond professionally."
 date:       1000-01-23 12:00:00
-permalink:  /train-people
+permalink:  /training-staff
 author:     "dario"
 header-img: "img/education-training-awareness.jpg"
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/

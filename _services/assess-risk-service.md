@@ -1,7 +1,7 @@
 ---
 layout:     services
 title:      "Assess Risk"
-subtitle:   "Create the foundation of your risk management program."
+subtitle:   "The foundation of a risk management program."
 date:       1000-01-21 12:00:00
 permalink:  /assess-risk
 author:     "dario"
@@ -24,12 +24,12 @@ The world produces 2.5 quintillion bytes of information each day. This recent ar
 -- <cite>World Economic Forum</cite>
 
 **Identify critical data, business processes and people**  
-Your organization may produce and store intellectual property, patents, business methodologies and other critical data. How can you effectively assign resources to secure it? By identifying critical data, business processes and key people, you can focus your efforts on securing key elements against loss or threats. Understanding what assets are critical to your organization helps direct resources efficiently and effectively.
+Your organization may produce and store mission critical data, intellectual property, patents, and business methodologies. How can you effectively assign resources to secure your data? By identifying critical data, business processes and key people, you can focus your efforts on securing key elements against loss or threats. Understanding what assets are critical to your organization helps direct resources efficiently and effectively.
 
-> ### If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
+> ### "If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
 -- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
 
-The quote by McGeorge Bundy illustrates the importance of identifying key assets by comparing toothbrushes to diamonds. A contemporary situation would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing patients medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patients records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations and fines) as well as on their reputation.
+The quote by McGeorge Bundy illustrates the importance of identifying key assets by comparing toothbrushes to diamonds. Another example may be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing patients medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patients records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations, fines) as well as on the clinic's reputation.
 
 
 ### We help you to better perceive risk

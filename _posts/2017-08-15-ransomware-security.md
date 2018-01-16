@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "The growing security threat of ransomware"
-subtitle:   "Stop cybercriminals from putting a stop on your activities."
+title:      "Ransomware: a growing security threat"
+subtitle:   "Organizations of all sizes can be targets."
 date:       2017-08-15 12:00:00
 permalink:  /ransomware-security
 author:     "dario"
@@ -18,7 +18,7 @@ Ransomware is a type of malware that, when it infects computers, restricts user 
 > ### over $24 million was paid to attackers in 2015. In Q1 of 2016 alone, ransomware costs rose to $209 million, and is projected to reach $1 billion by year's end.
 -- <cite>IC3, the FBI’s business crime complaint unit</cite>  
 
-**Cyber-attacks are neither industry nor sector specific. Organizations of all sizes can be targets.**
+### Cyber-attacks are neither industry nor sector specific
 
 Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) is a recommended approach to protect an organization from a wide variety of risks:
 
@@ -31,6 +31,6 @@ Organizations need to define how they detect, protect and respond to ransomware 
 * **Maintain comprehensive logs and audit trails -** Alerts, logs and audit trails
 * **Evaluate cyber liability insurance -** Protection in case of major breaches
 
-Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack is a preferable approach.
+Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack will always be preferable to the alternative of having to deal with the consequences of being a victim.
 
 To hear how we can help you minimize risk, get in touch. [**Contact us**]({{ site.baseurl }}/contact)

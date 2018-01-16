@@ -1,7 +1,7 @@
 ---
 layout:     services
 title:      "Ensure Continuity"
-subtitle:   "Develop procedures to mitigate potential incidents."
+subtitle:   "Developing procedures to mitigate potential incidents."
 date:       1000-01-24 12:00:00
 permalink:  /ensure-continuity
 author:     "dario"

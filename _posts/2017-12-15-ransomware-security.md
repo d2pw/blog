@@ -31,6 +31,6 @@ Organizations need to define how they detect, protect and respond to ransomware 
 * **Maintain comprehensive logs and audit trails -** Log all suspicious activity
 * **Evaluate cyber liability insurance -** Protection against losses due to fraud
 
-Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack will always be preferable to the alternative of having to deal with the consequences of being a victim.
+Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack will always be preferable to the alternative of having to deal with the consequences of having your data held hostage by cybercriminals.
 
 To hear how we can help you minimize risk, get in touch. [**Contact us**]({{ site.baseurl }}/contact)

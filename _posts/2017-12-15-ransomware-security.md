@@ -13,10 +13,10 @@ header-license:  CC0 Creative Commons
 ---
 
 ## Protect your organization against ransomware
-Ransomware is a type of malware that, when it infects computers, restricts user access to files, and often threatens the permanent deletion of data, unless a crypto-currency (e.g. Bitcoin) ransom is paid. The threat of ransomware is expected to increase with the rise of crypto-currencies. Digital currencies allow cybercriminals to operate without the fear of retribution since payments are not easily tracked by law enforcement agencies. The FBI’s Internet Crime Complaint Center has seen a large increase in malware:
+Ransomware is a type of malware that, when it infects computers, restricts user access to files, and often threatens the permanent deletion of data, unless a crypto-currency (e.g. Bitcoin) ransom is paid. The threat of ransomware is expected to increase with the rise of crypto-currencies. Digital currencies allow cybercriminals to operate without the fear of retribution since payments are not easily tracked by law enforcement agencies. The FBI’s Internet Crime Complaint Center (IC3) has seen a large increase in malware:
 
 > ### over $24 million was paid to attackers in 2015. In Q1 of 2016 alone, ransomware costs rose to $209 million, and is projected to reach $1 billion by year's end.
--- <cite>IC3, the FBI’s business crime complaint unit</cite>  
+-- <cite>IC3, the FBI’s Internet Crime Complaint Center</cite>  
 
 ### Cyber-attacks are neither industry nor sector specific
 

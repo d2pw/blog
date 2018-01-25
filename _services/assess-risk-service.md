@@ -32,7 +32,7 @@ Your organization may produce and store mission critical data, intellectual prop
 > ### "If we guard our toothbrushes and diamonds with equal zeal, we will lose fewer toothbrushes and more diamonds.”  
 -- <cite>McGeorge Bundy, US National Security Advisor speaking to President John F. Kennedy</cite>
 
-The quote by McGeorge Bundy illustrates the importance of identifying key assets by comparing toothbrushes to diamonds. Another example may be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing patients medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patients records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations, fines) as well as on the clinic's reputation.
+The quote by McGeorge Bundy illustrates the importance of identifying key assets. Another example would be to compare the value of a medical practice's balance sheet of long-term assets (lease, medical equipment...) vs. a database containing patients medical records. A stolen portable ultrasound machine could be replaced at the cost of thousands of dollars, without putting the future of the clinic at risk. A breach in the clinic's information systems, resulting in patients records getting into the wrong hands, could have a devastating effect on the clinic, both financially (litigation, regulatory investigations, fines) as well as on the clinic's reputation.
 
 
 ### We help you to better perceive risk

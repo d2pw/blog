@@ -27,6 +27,6 @@ Layered security, also known as layered defense, describes the practice of combi
 * **Install preventive controls -** Install firewalls, endpoint security and activity monitors  
 
 ### We help you avoid a crisis
-Organizations of all sizes need to determine their key information assets, identify where vulnerabilities lie and design security that will protect them from accidental loss or cyberattack. Putting in place a comprehensive plan is what sets apart an entity which recovers from an incident or cyberattack from one which will fail.
+Organizations of all sizes need to determine their key information assets, identify where vulnerabilities lie and design security procedures that will protect them from accidental loss or cyberattack. Putting in place a comprehensive plan is what sets apart an entity which recovers from an incident or cyberattack from one which will fail.
 
 To hear how we can help you ensure measures are in place to protect your data get in touch. [**Contact us**]({{ site.baseurl }}/contact)

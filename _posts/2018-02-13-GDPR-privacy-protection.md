@@ -3,7 +3,7 @@ layout:     post
 title:      "GDPR: European privacy protection"
 subtitle:   "Clarifying what unified European privacy rules mean for SMEs."
 description: "Personal privacy protection in Europe is nothing new. With the new GDPR directive, Europe has set out to unify and reinforce personal data protection."
-date:       2017-09-13 12:00:00
+date:       2018-02-13 12:00:00
 permalink:  /gdpr
 author:     "dario"
 header-img: "img/GDPR-privacy-protection.jpg"

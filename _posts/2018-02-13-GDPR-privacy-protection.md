@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "GDPR: what SMEs need to know regarding privacy"
-subtitle:   "Clarifying what unified European privacy rules mean for SMEs."
+subtitle:   "Clarifying the new EU data protection regulation."
 description: "GDPR is in the news. With the May 25, 2018, effective date looming, non-European businesses large and small are preoccupied with the question of compliance."
 date:       2018-02-13 12:00:00
 permalink:  /gdpr

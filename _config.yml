@@ -2,17 +2,17 @@
 title: Resources
 header-img: img/home.jpg
 author: dario
-email: contact@dario.com
-title_name: dario.com
-copyright_name: dario.com • Security
-description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.com"
+email: contact@dario.pw
+title_name: dario.pw
+copyright_name: dario.pw • Security
+description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.pw"
 baseurl: "/resources"
 url: "https://dario.pw"
 twitter_username: darioS3C
 github_username:
 facebook_username:
-email_username: contact@dario.com
-email_privacy: privacy@dario.com
+email_username: contact@dario.pw
+email_privacy: privacy@dario.pw
 google_tracking_id: UA-98131817-4
 # Build settings
 markdown: kramdown

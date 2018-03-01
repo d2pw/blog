@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "GDPR: European privacy protection"
+title:      "GDPR: what SMEs need to know regarding privacy"
 subtitle:   "Clarifying what unified European privacy rules mean for SMEs."
-description: "Personal privacy protection in Europe is nothing new. With the new GDPR directive, Europe has set out to unify and reinforce personal data protection."
+description: "GDPR is in the news. With the May 25, 2018, effective date looming, non-European businesses large and small are preoccupied with the question of compliance."
 date:       2018-02-13 12:00:00
 permalink:  /gdpr
 author:     "dario"
@@ -20,10 +20,10 @@ As a small, even one-person, business or a mid-sized company, you probably still
 ### Does the GDPR apply to me as an SME?  
 Do you do business with people who live in Europe? Then the short answer is yes.  
 
-The GDPR regulates the <u>processing</u> of <u>personally identifiable information</u> (PII). Processing, simply put, means collecting, storing or using information. Since our means of communication are predominantly electronic today, you collect and store, in some way, information that personally identifies these people.
+The GDPR regulates the <em>processing</em> of <em>personally identifiable information</em> (PII). Processing, simply put, means collecting, storing or using information. Since our means of communication are predominantly electronic today, you collect and store, in some way, information that personally identifies these people.
 
 ### What is personally identifiable information (PII)?
-The simplest form of this is your email contact list that gathers and stores a person’s first name, last name, and email address, usually containing part or all of that name. Even a professional email address, i.e. firstname.lastname@company.com is concerned.  
+The simplest form of this is your email contact list that gathers and stores a person’s first name, last name, and email address, usually containing part or all of that name. Even a professional email address, i.e. <em>name.surname@company.com</em> is concerned.  
 
 Other examples of PII are:
 * a home address;
@@ -39,7 +39,7 @@ By now, you’re probably asking…
 ### Why is it important to protect personally identifiable information (PII)?
 The GDPR aims to protect against potential misuse, i.e. unauthorized use, of such personally identifiable information. By this, we mean either by a company in the course of its business (sending unsolicited promotional emails, sales of lists, profiling for advertising or decision purposes, etc.), or by an illicit entity that steals the information from a professional or company, using it to commit a crime (fraud, theft, defamation etc.)  
 
-Therefore, such information as a company registration number, a generic company email address like info@company.com, or any data that is anonymized (e.g. profiling data that has had the name removed), is not considered PII because it presents no risk to an identifiable individual.
+Therefore, such information as a company registration number, a generic company email address like <em>info@company.com</em>, or any data that is anonymized (e.g. anonymized census data), is not considered PII because it presents no risk to an identifiable individual.
 
 ### Is all PII the same?
 No. Some information is considered sensitive. Sensitive data includes information about the health, race, sexual orientation, religious, philosophical or political beliefs, criminal record, and genetic or biometric data of an individual. In other words, anything that can be used against them and cause them harm. Such information is subject to extra safeguards.
@@ -54,7 +54,7 @@ If you are a small business engaged in the sale of products via a storefront pla
 
 * **Allow them to access the data you hold on them —** If someone asks you to show what data you have regarding them, you must be able to easily do so. If someone asks you to send that information to another company, you must be able to easily do so. If someone asks you to erase the data you have on them, you must be able to easily do so.
 
-* **Review your vulnerability to breaches and put into place procedures in case of breach —** If there is a data breach, you have to notify the supervisory PDA without undue delay, and at the latest within 72 hours after having become aware of the breach. You will therefore need alerts in place. If the breach concerns information that presents a high risk to the rights or freedoms of the person(s), you will need to notify them directly.
+* **Review your vulnerability to breaches and put into place procedures in case of breach —** You will need to implement appropriate technical and organizational measures to avoid possible data breaches. If there is a data breach, you have to notify the supervisory Data Protection Authority (DPA) without undue delay, and at the latest within 72 hours after having become aware of the breach. If the breach concerns information that presents a high risk to the rights or freedoms of the person(s), you will need to notify those affected directly.
 
 * **Keep records —** If you process data regularly, or if it is sensitive, or poses a threat to rights and freedoms, you will need to keep track of consents and agreements and your processing activities, even if you are a company of less than 250 employees.
 

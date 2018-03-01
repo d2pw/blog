@@ -2,6 +2,7 @@
 layout:     post
 title:      "Ransomware: a growing security threat"
 subtitle:   "Organizations of all sizes can be targets."
+description: "Ransomware is a type of malicious software that, once it infects computers, restricts access to files unless a crypto-currency ransom (e.g. Bitcoin) is paid."
 date:       2017-12-15 12:00:00
 permalink:  /ransomware-security
 author:     "dario"
@@ -22,14 +23,14 @@ Ransomware is a type of malware that, when it infects computers, restricts user 
 
 Organizations need to define how they detect, protect and respond to ransomware attacks. As is the case with other types of malicious attacks, [multiple layers of security]({{ site.baseurl }}{% link _services/protect-assets-service.md %}) is a recommended approach to protect an organization from a wide variety of risks:
 
-* **Identify risk -** Carry out a risk assessment
-* **Define security and privacy policies -** Reflect the objectives set by management
-* **Customize education, training and awareness programs -** Identify and adapt training for all users profiles
-* **Keep information systems current and up to date -** Audit information systems and define update procedures
-* **Develop business continuity and disaster recovery plans -** Backups, incident management, contingency planning
-* **Install preventive controls -** Firewalls, endpoint security
-* **Maintain comprehensive logs and audit trails -** Log all suspicious activity
-* **Evaluate cyber liability insurance -** Protection against losses due to fraud
+* **Identify risk —** Carry out a risk assessment
+* **Define security and privacy policies —** Reflect the objectives set by management
+* **Customize education, training and awareness programs —** Identify and adapt training for all user profiles
+* **Keep information systems current and up to date —** Audit information systems and define update procedures
+* **Develop business continuity and disaster recovery plans —** Backups, incident management, contingency planning
+* **Install preventive controls —** Firewalls, endpoint security
+* **Maintain comprehensive logs and audit trails —** Implement a security log management infrastructure
+* **Evaluate cyber liability insurance —** Protection against major losses
 
 Ransomware attacks should be reported to the proper authorities. In most cases, authorities will strongly suggest not paying a ransom in response to an attack. There is, after all, no guarantee that paying a ransom will result in the recovery of the data in question. It goes without saying, preventing a malware attack will always be preferable to the alternative of having to deal with the consequences of having your data held hostage by cybercriminals.
 

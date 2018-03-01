@@ -1,19 +1,19 @@
-<<<<<<< HEAD
 # Site settings
 title: Resources
 header-img: img/home.jpg
 author: dario
 email: contact@dario.com
-title_name: dario.pw
-copyright_name: dario.pw • Security • Privacy
-description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.pw"
+title_name: dario.com
+copyright_name: dario.com • Security
+description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.com"
 baseurl: "/resources"
-url: "https://dario.pw"
+url: "https://dario.com"
 twitter_username: darioS3C
 github_username:
 facebook_username:
-email_username:
-google_tracking_id: UA-98131817-4
+email_username: contact@dario.com
+email_privacy: privacy@dario.com
+google_tracking_id: UA-98131817-2
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -23,27 +23,4 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 collections:
    services:
      output: true
-  # secure-assets:
-  #  output: true
 gems: [jekyll-paginate, jekyll-feed]
-=======
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://blackrockdigital.github.io"
-
-# Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
-
-# Build settings
-markdown:          kramdown
-paginate:          5
-paginate_path:     "/posts/page:num/"
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
->>>>>>> BlackrockDigital/master

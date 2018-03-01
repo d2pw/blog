@@ -1,9 +1,5 @@
 <!-- Footer -->
-
-<hr>
-
 <footer>
-<<<<<<< HEAD
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -58,7 +54,8 @@
                     {% endif %}
                 </ul>
                 <p class="copyright text-muted">
-                  &copy; 20{{ site.time | date: '%y' }} {{ site.copyright_name }}
+                  &copy; 20{{ site.time | date: '%y' }} {{ site.copyright_name }} • <a href="{{ site.baseurl }}/privacy-policy">Privacy Policy</a>
+                   • <a href="{{ site.baseurl }}/privacy-policy#TOS">TOS</a>
                   {% if page.header-credit-link%} •
                       <a href="{{ page.header-credit-link}}" target="_blank" >Header image</a>
                       {% if page.header-license%}
@@ -72,45 +69,14 @@
                 </p>
             </div>
         </div>
-=======
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <ul class="list-inline text-center">
-          {% if site.twitter_username %}
-          <li class="list-inline-item">
-            <a href="https://www.twitter.com/{{ site.twitter_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.facebook_username %}
-          <li class="list-inline-item">
-            <a href="https://www.facebook.com/{{ site.facebook_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.github_username %}
-          <li class="list-inline-item">
-            <a href="https://github.com/{{ site.github_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-circle fa-stack-2x"></i>
-                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-        </ul>
-        <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
-      </div>
->>>>>>> BlackrockDigital/master
     </div>
-  </div>
 </footer>
+
+<!-- jQuery -->
+<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+
+<!-- Custom Theme JavaScript -->
+<script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>

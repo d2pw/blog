@@ -7,6 +7,7 @@ date:       2017-12-15 12:00:00
 permalink:  /ransomware-security
 author:     "dario"
 header-img: "img/ransomware-security.jpg"
+image: "img/ransomware-security.jpg"
 header-title:
 header-author:
 header-credit-link: https://pixabay.com/en/hacking-cyber-crime-security-hacker-2077124/

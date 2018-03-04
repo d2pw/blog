@@ -7,6 +7,7 @@ date:       2017-01-23 12:00:00
 permalink:  /training-staff
 author:     "dario"
 header-img: "img/training-staff.jpg"
+image: "img/training-staff.jpg"
 header-title:
 header-author:
 header-credit-link: https://pixabay.com/en/social-media-digitization-faces-2528410/

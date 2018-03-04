@@ -1,19 +1,40 @@
 # Site settings
 title: Resources
-header-img: img/home.jpg
-author: dario
-email: contact@dario.pw
 title_name: dario.pw
+# copyright text in footer
 copyright_name: dario.pw • Security
+# website logos, images & icons
+header-img: img/home.jpg
+logo: /img/chklst.png
 description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.pw"
+# urls
 baseurl: "/resources"
 url: "https://dario.pw"
-twitter_username: darioS3C
+author:
+# Language format language_TERRITORY. Default is en_US
+lang: en_US
+# email address
+email: contact@dario.pw
+email_username: contact@dario.pw
+# email address in privacy policy
+email_privacy: privacy@dario.pw
+# search tracking id for dario.pw
+google_tracking_id: UA-98131817-4
+webmaster_verifications:
+  google: jKNeXGKZ4e1CsWLJx1vciAX-AIUBkpglQ_LG5jZfQKc
+  bing:
+  alexa:
+  yandex:
+  baidu:
+# Social accounts
+twitter:
+  username: darioS3C
 github_username:
 facebook_username:
-email_username: contact@dario.pw
-email_privacy: privacy@dario.pw
-google_tracking_id: UA-98131817-4
+facebook:
+ app_id:
+ publisher:
+ admins:
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -23,4 +44,4 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 collections:
    services:
      output: true
-gems: [jekyll-paginate, jekyll-feed]
+gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]

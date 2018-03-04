@@ -5,21 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}</title>
-    <meta name="description" content="{{ page.description }}">
 
     <!-- Theme Color for Chrome, Firefox OS and Opera -->
     <meta name="theme-color" content="#5478c4">
 
-    <!--
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-    -->
-
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/img/chklst.png"/>
     <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon"/>
-
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
@@ -42,7 +33,14 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    <!-- Twitter Card data -->
+    <!-- remove SEO for testing of SEO gem
+    <title>{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}</title>
+    <meta name="description" content="{{ page.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+    Twitter Card data
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="{{ site.twitter_username }}"/>
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}"/>
@@ -50,15 +48,18 @@
     <meta name="twitter:creator" content="{{ site.author }}"/>
     <meta name="twitter:image" content="{{ site.url }}/img/chklst.png"/>
 
-    <!-- Open Graph data -->
+    Open Graph data
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}"/>
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
     <meta property="og:image:secure_url" content="{{ site.url }}/img/chklst.png"/>
     <meta property="og:description" content="{{ page.description }}"/>
     <meta property="og:site_name" content="{{ site.title_name }} • {{ site.title }}"/>
+     -->
 
     <!-- entry for Jekyll plugin to generate an Atom (RSS-like) feed of Jekyll posts -->
     {% feed_meta %}
+
+    {% seo title=false %}
 
 </head>

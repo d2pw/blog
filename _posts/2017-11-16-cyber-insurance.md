@@ -7,6 +7,7 @@ date:       2017-11-16 12:00:00
 permalink:  /cyber-insurance
 author:     "dario"
 header-img: "img/cyber-insurance.jpg"
+image: "img/cyber-insurance.jpg"
 header-title:
 header-author:
 header-credit-link: https://pixabay.com/en/matrix-earth-global-international-2502958/

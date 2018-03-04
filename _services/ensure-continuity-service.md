@@ -8,6 +8,7 @@ date:       2017-01-24 12:00:00
 permalink:  /ensure-continuity
 author:     "dario"
 header-img: "img/ensure-continuity.jpg"
+image: "img/ensure-continuity.jpg"
 header-title:
 header-author:
 header-credit-link:

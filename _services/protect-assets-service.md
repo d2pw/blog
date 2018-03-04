@@ -7,6 +7,7 @@ date:       2017-01-22 12:00:00
 permalink:  /protect-assets
 author:     "dario"
 header-img: "img/protect-assets.jpg"
+image: "img/protect-assets.jpg"
 header-title:
 header-author:
 header-credit-link: https://pixabay.com/en/computers-information-technology-2652997/

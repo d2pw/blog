@@ -10,7 +10,7 @@ description: "Security is a business requirement. Protecting privacy is good bus
 # urls
 baseurl: "/resources"
 url: "https://dario.pw"
-author: site author dario.pw
+author: 
 # Language format language_TERRITORY. Default is en_US
 lang: en_US
 # email address

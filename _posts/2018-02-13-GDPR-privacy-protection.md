@@ -6,8 +6,7 @@ description: "GDPR is in the news. With the May 25, 2018, effective date looming
 date:       2018-02-13 12:00:00
 permalink:  /gdpr
 canonical_url:
-author:     blogPost author dario.pw
-name: name dario.pw
+author:     Staff Article
 header-img: "img/GDPR-privacy-protection.jpg"
 image: "img/GDPR-privacy-protection.jpg"
 header-title:

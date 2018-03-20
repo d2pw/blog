@@ -5,8 +5,7 @@ subtitle:   "A new NIST guideline as a foundation for password policy."
 description: "The NIST has released new Digital Identity Guidelines. Why is it important? Understanding digital identities helps staff develop their security awareness."
 date:       2017-10-13 12:00:00
 permalink:  /better-password-security
-canonical_url: 
-author:     
+author:     "dario.pw"
 header-img: "img/better-password-security.jpg"
 image: "img/better-password-security.jpg"
 header-title:

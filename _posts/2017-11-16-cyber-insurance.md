@@ -5,7 +5,7 @@ subtitle:   "Protection against major incidents."
 description: "With cyber attacks and privacy breaches making daily headlines, organizations need a robust security and privacy strategy. Insurance should be part of that it."
 date:       2017-11-16 12:00:00
 permalink:  /cyber-insurance
-author:     "dario"
+author:     "dario.pw"
 header-img: "img/cyber-insurance.jpg"
 image: "img/cyber-insurance.jpg"
 header-title:

@@ -5,8 +5,9 @@ subtitle:   "Clarifying the new EU data protection regulation."
 description: "GDPR is in the news. With the May 25, 2018, effective date looming, non-European businesses large and small are preoccupied with the question of compliance."
 date:       2018-02-13 12:00:00
 permalink:  /gdpr
-canonical_url: 
-author:     
+canonical_url:
+author:     blogPost author dario.pw
+name: name dario.pw
 header-img: "img/GDPR-privacy-protection.jpg"
 image: "img/GDPR-privacy-protection.jpg"
 header-title:

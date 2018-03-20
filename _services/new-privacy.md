@@ -4,7 +4,7 @@ title: "Privacy Policy"
 subtitle:
 description: "We care about your privacy."
 date: 2018-02-21 12:00:00
-permalink: /privacy-policy
+permalink: /new-privacy-policy
 canonical_url:
 author:
 header-img: "img/privacy-policy.jpg"

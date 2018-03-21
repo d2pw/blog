@@ -6,7 +6,7 @@ description: "We care about your privacy."
 date: 2018-02-21 12:00:00
 permalink: /new-privacy-policy
 canonical_url:
-author:
+author: dario.pw Staff
 header-img: "img/privacy-policy.jpg"
 image: "img/privacy-policy.jpg"
 header-title:

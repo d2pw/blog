@@ -5,7 +5,7 @@ subtitle:   "Prepare staff to identify risk and to respond professionally."
 description: Make people part of the solution; raise your employees' security awareness. With the right training, employees become an organization's strongest security asset."
 date:       2017-01-23 12:00:00
 permalink:  /training-staff
-author:     "dario"
+author:     dario.pw Staff
 header-img: "img/training-staff.jpg"
 image: "img/training-staff.jpg"
 header-title:

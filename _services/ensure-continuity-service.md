@@ -6,7 +6,7 @@ subtitle:   "Prepare staff to identify risk and to respond professionally."
 description: The biggest mistake organizations of all sizes make is waiting until after a disaster or cyber-attack to define a continuity plan. It may be too late!"
 date:       2017-01-24 12:00:00
 permalink:  /ensure-continuity
-author:     "dario"
+author:     dario.pw Staff
 header-img: "img/ensure-continuity.jpg"
 image: "img/ensure-continuity.jpg"
 header-title:

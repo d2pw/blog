@@ -5,7 +5,7 @@ subtitle:   "Organizations of all sizes can be targets."
 description: "Ransomware is a type of malicious software that, once it infects computers, restricts access to files unless a crypto-currency ransom (e.g. Bitcoin) is paid."
 date:       2017-12-15 12:00:00
 permalink:  /ransomware-security
-author:     "dario.pw"
+author:     dario.pw Staff post
 header-img: "img/ransomware-security.jpg"
 image: "img/ransomware-security.jpg"
 header-title:

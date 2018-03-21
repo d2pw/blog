@@ -3,7 +3,7 @@ layout:     services
 title:      "Ensure Continuity"
 subtitle:   "Developing procedures to mitigate potential incidents."
 subtitle:   "Prepare staff to identify risk and to respond professionally."
-description: The biggest mistake organizations of all sizes make is waiting until after a disaster or cyber-attack to define a continuity plan. It may be too late!"
+description: "The biggest mistake organizations of all sizes make is waiting until after a disaster or cyber-attack to define a continuity plan. It may be too late!"
 date:       2017-01-24 12:00:00
 permalink:  /ensure-continuity
 author:     dario.pw Staff

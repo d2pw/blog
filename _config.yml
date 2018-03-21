@@ -8,7 +8,7 @@ author: dario.pw Staff
 lang: en_US
 # website logos, images & icons
 header-img: img/home.jpg
-logo: /img/chklst.png
+logo: img/chklst.png
 image: img/home.jpg
 # urls
 baseurl: "/resources"
@@ -45,6 +45,26 @@ facebook:
  app_id:
  publisher:
  admins:
+
+# Social/SEO defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      image:  img/header.jpg
+      twitter_image_small: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      image:  img/chklst.png
+      twitter_image_small: true
+
 
 # Build settings
 markdown: kramdown

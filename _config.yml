@@ -9,7 +9,7 @@ lang: en_US
 # website logos, images & icons
 header-img: img/home.jpg
 logo: img/chklst.png
-image: img/home.jpg
+image: "img/home.jpg"
 # urls
 baseurl: "/resources"
 url: "https://dario.pw"
@@ -48,23 +48,10 @@ facebook:
 
 # Social/SEO defaults
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: "pages"
     values:
-      layout: "default"
-      image:  img/header.jpg
-      twitter_image_small: true
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      image:  img/chklst.png
-      twitter_image_small: true
-
+      image: img/home.jpg
 
 # Build settings
 markdown: kramdown

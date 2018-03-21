@@ -1,30 +1,31 @@
 <head>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <title>{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}</title>
 
-    <!-- Theme Color for Chrome, Firefox OS and Opera -->
-    <meta name="theme-color" content="#5478c4">
-
-    <link rel="apple-touch-icon" href="{{ site.baseurl }}/img/chklst.png"/>
-    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon"/>
-
+    <!--BEGIN LINKS-->
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
-
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/clean-blog.css" | prepend: site.baseurl }}">
-
     <!-- Pygments Github CSS -->
     <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
-
     <!-- Custom Fonts -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href='//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <!-- icon links -->
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/img/chklst.png"/>
+    <link rel="shortcut icon" sizes="16x16 24x24 32x32 48x48 64x64" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon"/>
+    <!--END LINKS-->
+
+    <!-- Theme Color for Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#5478c4">
+
+    <!-- <meta name="robots" content="index, follow"> -->
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,27 +35,29 @@
     <![endif]-->
 
     <!-- remove SEO for testing of SEO gem
-    <title>{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}</title>
     <meta name="description" content="{{ page.description }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-    Twitter Card data
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="{{ site.twitter_username }}"/>
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}"/>
     <meta name="twitter:description" content="{{ page.description }}"/>
     <meta name="twitter:creator" content="{{ site.author }}"/>
     <meta name="twitter:image" content="{{ site.url }}/img/chklst.png"/>
-
-    Open Graph data
     <meta property="og:type" content="website"/>
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}"/>
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
     <meta property="og:image:secure_url" content="{{ site.url }}/img/chklst.png"/>
     <meta property="og:description" content="{{ page.description }}"/>
     <meta property="og:site_name" content="{{ site.title_name }} • {{ site.title }}"/>
+
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+    additional SEO meta
+    <meta name="twitter:image" content="{{ site.url }}/img/chklst.png"/>
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}"/>
+    <meta name="twitter:description" content="{{ page.description }}"/>
+    <meta property="og:image:secure_url" content="{{ site.url }}/img/chklst.png"/>
+    <meta property="og:type" content="website"/>
      -->
 
     <!-- entry for Jekyll plugin to generate an Atom (RSS-like) feed of Jekyll posts -->

@@ -9,6 +9,7 @@ lang: en_US
 # website logos, images & icons
 header-img: img/home.jpg
 logo: /img/chklst.png
+image: img/home.jpg
 # urls
 baseurl: "/resources"
 url: "https://dario.pw"
@@ -32,7 +33,7 @@ webmaster_verifications:
   yandex:
   baidu:
 
-# Social accounts
+# Social/SEO
 twitter_username: darioS3C
 github_username:
 facebook_username:

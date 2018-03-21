@@ -1,47 +1,61 @@
-# Site settings
+# Basic settings
+# Need to change to an appropriate Title sed in all setting and paraeters
 title: Resources
+description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.pw"
 title_name: dario.pw
-# copyright text in footer
-copyright_name: dario.pw • Security
+author: _config.yml author
+# Language format language_TERRITORY. Default is en_US
+lang: en_US
 # website logos, images & icons
 header-img: img/home.jpg
 logo: /img/chklst.png
-description: "Security is a business requirement. Protecting privacy is good business. Protect your data and business. dario.pw"
 # urls
 baseurl: "/resources"
 url: "https://dario.pw"
-author: 
-# Language format language_TERRITORY. Default is en_US
-lang: en_US
+
+# copyright text in footer
+copyright_name: dario.pw • Security
+
 # email address
 email: contact@dario.pw
 email_username: contact@dario.pw
 # email address in privacy policy
 email_privacy: privacy@dario.pw
+
 # search tracking id for dario.pw
 google_tracking_id: UA-98131817-4
+
 webmaster_verifications:
   google: jKNeXGKZ4e1CsWLJx1vciAX-AIUBkpglQ_LG5jZfQKc
   bing:
   alexa:
   yandex:
   baidu:
+
 # Social accounts
-twitter:
-  username: darioS3C
+twitter_username: darioS3C
 github_username:
 facebook_username:
+
+twitter:
+  username: darioS3C
+
 facebook:
  app_id:
  publisher:
  admins:
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 8
+
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
 collections:
    services:
      output: true
+
+# gems
 gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]

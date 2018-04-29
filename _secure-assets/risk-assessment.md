@@ -23,6 +23,8 @@ Evaluating risk is key if we are to allocate resources cost-effectively. Therefo
 
 > ### Asset + Vulnerability + Threat = Risk
 
+![Example](img/risk-assessment-image.jpg)
+
 **Threats** may exist, but if there are no **vulnerabilities** then there is little **risk**. Similarly, you can have a **vulnerability**, but if you have no **threat**, then you have little **risk**.
 
 Accurately identifying vulnerabilities and assessing threats is critical to understanding the risks information is exposed to. Often, the amount of information potentially at risk outweighs the resources available to protect it. It is therefore important to know where to apply available resources to mitigate risk in a cost-effective and efficient manner. A risk assessment is the risk management process that assigns relative priorities for mitigation plans and their implementation.

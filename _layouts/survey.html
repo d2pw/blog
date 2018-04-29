@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    {% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				{{ content }}
+
+                {% if page.home %}
+                <!--  <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-primary btn-xl page-scroll">Start</a> -->
+                  <a href="{{ site.baseurl }}/gdpr-survey-q1" class="btn btn-primary btn-xl page-scroll">Start</a>
+                {% endif %}
+
+                {% if page.question %}
+                  <br>
+                  <a href="{{ page.answer-yes | prepend: site.baseurl }}" class="btn btn-primary btn-xl page-scroll">Yes</a>
+                  <br>
+                  <br>
+                  <a href="{{ page.answer-no | prepend: site.baseurl }}" class="btn btn-primary btn-xl page-scroll">No</a>
+                {% endif %}
+
+                {% if page.answer %}
+                  <br>
+                  {% if page.last-question %}
+                    <a href= "{{ site.baseurl }}/gdpr-survey-end" class="btn btn-primary btn-xl page-scroll">Final page</a>
+                  {% else %}
+                    <a href="{{ page.answer-next | prepend: site.baseurl }}" class="btn btn-primary btn-xl page-scroll">Next question</a>
+                  {% endif %}
+                  <br>
+                  <br>
+                  <a href="{{ site.baseurl }}/gdpr-get-help" class="btn btn-primary btn-xl page-scroll">Need help?</a>
+                {% endif %}
+
+                {% if page.end %}
+                <!--  <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-primary btn-xl page-scroll">Start</a> -->
+                  <a href="{{ site.baseurl }}/gdpr-survey-Home" class="btn btn-primary btn-xl page-scroll">Retake survey</a>
+                {% endif %}
+
+                <hr>
+                <ul class="pager">
+                    {% if page.question %}
+                      {% if page.first-question %}
+                      {% else %}
+                        {% if page.previous.url %}
+                        <li class="previous">
+                            <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Question</a>
+                        </li>
+                        {% endif %}
+                      {% endif %}
+                    {% endif %}
+                      <!--
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Question &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+                 -->
+            </div>
+        </div>
+    </div>
+</article>

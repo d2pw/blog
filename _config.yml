@@ -51,7 +51,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: img/home.jpg
+      image: img/chklst.png
 
 # Build settings
 markdown: kramdown
@@ -62,8 +62,12 @@ paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 collections:
-   services:
-     output: true
+  services:
+    output: true
+  secure-assets:
+    output: true
+  survey:
+    output: true
 
 # gems
 gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]

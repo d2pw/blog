@@ -19,6 +19,6 @@ answer-next: /gdpr-survey-q3
 
 **2. Does your organization employ anyone, even an outside contractor, resident in an EU country, or do business with an EU-based company?**
 
-**You answered yes**
+**You answered yes.**
 
-If you employ or do business with an EU resident, you must comply with the new GDPR directive. In this scenario you will be storing personal information on employees or business associates. You will need to take special care to protect this information, and only use it for purposes directly related to your business relationship with these EU residents.
+Personal information regarding employees and business associates who are EU residents is subject to the new GDPR directive. You will need to take special care to protect this information, and only use it for the purposes it was intended for, e.g. to directly contact, commercially transact, or make fiscal declarations.

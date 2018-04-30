@@ -17,8 +17,10 @@ answer: true
 answer-next: /gdpr-survey-q7
 ---
 
-**6. Do you use personal information in a way it was not initially intended for when collected?
+**6. Do you use personal information in a way it was not initially intended for when collected?**
 
-**You answered yes**
+**You answered yes.**
 
-Under the GDPR you must tell people what data you collect and what you intend to do with it. Ask them to expressly agree to that — You cannot assume they agree and ask them to say if they do not. You must get them to opt in.
+When people give you their contact details to get a response to a question or to obtain information about a product, they trust you with their information. If you use it to send them newsletters they didn’t ask for, or sell it to another company, you are not protecting that information.
+
+Under the GDPR you must tell people what data you collect and what you intend to do with it. And you must ask them to expressly agree to that — you cannot assume they agree and ask them to say if they do not. You must get them to opt in, not opt out.

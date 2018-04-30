@@ -20,4 +20,6 @@ answer-next: /gdpr-survey-q2
 
 **You answered yes.**
 
-If you sell goods and services to EU residents you need to comply with the GDPR. The GDPR regulates the processing of personally identifiable information (PII). Processing, simply put, means collecting, storing or using information.
+When you collect information on prospects or customers, whether for transactional or communications purposes, whether you sell B2B or to consumers, you need to comply with the GDPR.
+
+The GDPR regulates the processing of personally identifiable information (PII). Processing, simply put, means collecting, storing or using information.

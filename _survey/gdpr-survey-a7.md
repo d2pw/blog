@@ -19,6 +19,8 @@ answer-next: /gdpr-survey-q8
 
 **7. Is it difficult for you to quickly find all areas of your business where you may store personal information?**
 
-**You answered yes**
+**You answered yes.**
 
-Personal information needs to be protected under GDPR. All areas of your organization which may contain personal data from EU residents must be documented under the GDPR and you must show you are compliant. You must have a data protection strategy in place and make sure it is always current.
+The GDPR is about protecting personal information. To protect it, you must know where it is.
+
+You must document the acquisition, storage and use of personal information from EU residents in all areas of your organization. You must also have a data protection strategy in place and make sure it is always current. These records are required to show GDPR compliance.

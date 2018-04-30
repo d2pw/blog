@@ -14,11 +14,17 @@ header-credit-link:
 header-license:
 ---
 
-## GDPR: A quick survey to help SMBs get ready
+## Find out how GDPR might affect you
 
-GDPR - General Data Protection Regulation - is in the news. With the May 25, 2018, effective date looming, non-European businesses large and small are preoccupied with the question of compliance.
+This free, short questionnaire will help you understand if you need to take action regarding GDPR – the General Data Protection Regulation for EU residents. By answering our questions, you’ll be able to see what areas present risks for you, and get important information on how to take the next steps. [**Take the survey**]({{ site.baseurl }}/gdpr-survey-home)
 
-As a small, even one-person, business or a mid-sized company, you probably still have a lot of questions. The wealth of information out there is often contradictory and rarely clear. Allow us to share with you our insight based on our extensive experience working with [European companies and authorities on personal data protection.]({{ site.url }}#portfolio)
+### Need more understanding of what GDPR is?
+You’ve probably seen GDPR in the news. With the May 25, 2018, effective date looming, non-European businesses large and small are preoccupied with the question of compliance.
+
+If you’re a small, even one-person, business or a mid-sized company, we can help you with your questions. The wealth of information out there is often contradictory and rarely clear.
 
 
-This free, short questionnaire will help you understand if you need to take action regarding GDPR. Take two minutes to see where you fall and get important information on how to take the next steps. [**Take the survey**]({{ site.baseurl }}/gdpr-survey-home)
+[**Start with our primer blog post**]({{ site.baseurl }}/gdpr)  
+[**Take the survey**]({{ site.baseurl }}/gdpr-survey-home)  
+
+[**Contact us**]({{ site.baseurl }}/contact) for exclusive insight based on our extensive experience working with [European companies and authorities on personal data protection.]({{ site.url }}#portfolio)

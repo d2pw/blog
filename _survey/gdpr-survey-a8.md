@@ -19,6 +19,10 @@ answer-next: /gdpr-survey-q9
 
 **8. Is it difficult for your organization to identify the type of information you hold about an EU resident (e.g. whether they are an EU resident, whether they have consented and when, whether information is sensitive)?**
 
-**You answered yes**
+**You answered yes.**
 
-Personal information needs to be protected under GDPR. All areas of your organization which may contain personal data from EU residents must be documented under the GDPR. Special care must be taken to protect sensitive information. You must prove you need to process sensitive information — The GDPR is explicit about the cases in which you can do so, and you will need to show that you fit one of the categories and comply with any national restrictions.
+The GDPR is about protecting personal information. If you cannot show that you are in control of the information you hold, your ability to protect it is in doubt.
+
+You must therefore document the acquisition, storage and use of personal information from EU residents in all areas of your organization.
+
+Special care must be taken to protect sensitive information, and you must prove you need to process it. The GDPR is explicit about the cases in which you can do so, and you will need to show that you fit one of the categories and comply with any national restrictions.

@@ -42,18 +42,18 @@ layout: default
                 {% if page.answer %}
                   <br>
                   {% if page.last-question %}
-                    <a href= "{{ site.baseurl }}/gdpr-survey-end" class="btn btn-primary btn-xl page-scroll">Final page</a>
+                    <a href= "{{ site.baseurl }}/gdpr-survey-end" class="btn btn-primary btn-xl page-scroll">End survey</a>
                   {% else %}
-                    <a href="{{ page.answer-next | prepend: site.baseurl }}" class="btn btn-primary btn-xl page-scroll">Next question</a>
+                    <a href="{{ page.answer-next | prepend: site.baseurl }}" class="btn btn-primary btn-xl page-scroll">Next question &rarr;</a>
                   {% endif %}
                   <br>
                   <br>
-                  <a href="{{ site.baseurl }}/gdpr-get-help" class="btn btn-primary btn-xl page-scroll">Need help?</a>
+                  <a href="{{ site.baseurl }}/gdpr-get-help" class="btn btn-primary btn-xl page-scroll">Need more info?</a>
                 {% endif %}
 
                 {% if page.end %}
                 <!--  <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-primary btn-xl page-scroll">Start</a> -->
-                  <a href="{{ site.baseurl }}/gdpr-survey-Home" class="btn btn-primary btn-xl page-scroll">Retake survey</a>
+                  <a href="{{ site.baseurl }}/gdpr-survey-home" class="btn btn-primary btn-xl page-scroll">Retake survey</a>
                 {% endif %}
 
                 <hr>

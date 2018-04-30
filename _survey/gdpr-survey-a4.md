@@ -19,6 +19,8 @@ answer-next: /gdpr-survey-q5
 
 **4. Do you use website cookies, online forms, or employ a customer relationship management (CRM) database to collect data?**
 
-**You answered yes**
+**You answered yes.**
 
-If you use website cookies, or use online forms which request personal data, such as name, email or phone number, you need to comply with the GDPR. Consent must be given by visitors of your site if you use cookies. and a clear privacy policy should let visitors know what you intend to do with any personal information you gather on your site. If you use a CRM, it stores personal data, which triggers the need to comply with GDPR. 
+Website cookies are considered personally identifiable information in the same way as names, email addresses and phone numbers that you collect through online forms, because they can be used to track people. A CRM stores personal data, which triggers the need to comply with GDPR.
+
+If you use cookies, you must therefore request and receive consent from EU visitors to your site, and have a clear privacy policy letting visitors know what you intend to do with any personal information you gather on your site.

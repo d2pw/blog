@@ -19,6 +19,8 @@ answer-next: /gdpr-survey-q6
 
 **5. Do you use the personal information you collect on people to make decisions that impact them?**
 
-**You answered yes**
+**You answered yes.**
 
-If personal information from an EU resident is processed automatically and may lead to a decision which may impact them, you must be able to show that no discrimination is possible. Under the new GRPR you must be able to cease automatic processing of an individual’s information upon their request.
+The personal information you collect from an EU resident cannot be used against them. If it is processed automatically, leading to a decision which can impact them adversely, e.g. refusal of a loan or insurance, it is not being protected.
+
+Under the GDPR, you must be able to show that no discrimination is possible when personal information is automatically processed. You must also be able to cease automatic processing of an individual’s information upon their request, and make the decision manually.

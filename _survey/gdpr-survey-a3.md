@@ -17,7 +17,7 @@ answer: true
 answer-next: /gdpr-survey-q4
 ---
 
-**Have you collected or do you store and use in any way personal information from people who reside in the EU?**
+**3. Have you collected or do you store and use in any way personal information from people who reside in the EU?**
 
 Personal information can be, for example:
 * a person’s first name, last name
@@ -27,6 +27,12 @@ Personal information can be, for example:
 * an identification card number;
 * an Internet Protocol (IP) address;
 
-**You answered yes**
+**You answered yes.**
 
-If you collect or store any personal data from EU residents, you must comply with the GDPR. This includes getting consent to collect the information and being clear about the purpose for gathering it. You need to give them access to the information you store and allow EU residents to correct inaccurate information, get a copy of the information you have collected, and also transfer it to an other entity if they request it. Special care must be taken to protect personal information from theft or misuse. Sensitive information requires you to take extra measures to protect EU residents from any possible misuse.
+Collecting and storing information can be done via a signup or contact form, or by entering information from business cards into a spreadsheet or a distribution list on an email platform, for example.
+
+GDPR compliance includes getting express (not default) consent to collect the information, and being clear about the purpose for gathering it, e.g. to receive news about your company and products, to obtain a response to their question.
+
+You also need to give EU residents access to their information when you store it – allowing them to get a copy of the information you have collected and correct inaccurate information – and to respond to their requests to delete it or transfer it to another entity.
+
+Special care must be taken to protect personal information from theft or misuse. Sensitive information requires you to take extra measures to protect EU residents from any possible misuse.

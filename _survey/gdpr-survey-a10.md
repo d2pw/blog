@@ -19,6 +19,8 @@ last-question: true
 
 **10. Do you store or use sensitive personal information such as health records, financial records, political affiliation or other information people could consider private?**
 
-**You answered yes**
+**You answered yes.**
 
-If you store sensitive information belonging to EU residents the GDPR is explicit about the cases in which you can do so, and you will need to show that you fit one of the categories and comply with any national restrictions.
+Sensitive information requires special protection.
+
+The GDPR is explicit about the cases in which you can store sensitive information belonging to EU residents, and you will need to show that you fit one of the categories and comply with any national restrictions.

@@ -21,11 +21,11 @@ answer-next: /gdpr-survey-q4
 
 Personal information can be, for example:
 * a person’s first name, last name
-* an address;
+* an address
 * a telephone number
-* an email address such as name.surname@company.com;
-* an identification card number;
-* an Internet Protocol (IP) address;
+* an email address such as name.surname@company.com
+* an identification card number
+* an Internet Protocol (IP) address
 
 **You answered yes.**
 

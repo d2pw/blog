@@ -23,8 +23,8 @@ Have you collected or do you store and use in any way personal information from 
 
 Personal information can be, for example:
 * a person’s first name, last name
-* an address;
+* an address
 * a telephone number
-* an email address such as name.surname@company.com;
-* an identification card number;
-* an Internet Protocol (IP) address;
+* an email address such as name.surname@company.com
+* an identification card number
+* an Internet Protocol (IP) address

@@ -17,6 +17,6 @@ end: true
 
 **You're done!**
 
-If you answered no to all 10 questions, it looks like your organization does not fall under GDPR, or has everything in place to be compliant. If you were unsure when answering a few questions or want more information on how the GDPR could affect you, [**Talk to us**]({{ site.baseurl }}/contact)
+If you answered no to all 10 questions, it looks like your organization does not fall under GDPR, or has everything in place to be compliant. If you were unsure when answering a few questions or want more information on how the GDPR could affect you, [**talk to us**]({{ site.baseurl }}/contact)
 
 If you answered yes to any of the 10 questions, we recommend you look deeper into the GDPR and what you need to do to comply. Our GDPR privacy impact assessment can help you. [**Contact us**]({{ site.baseurl }}/contact)

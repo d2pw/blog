@@ -42,7 +42,7 @@ layout: default
                 {% if page.answer %}
                   <br>
                   {% if page.last-question %}
-                    <a href= "{{ site.baseurl }}/gdpr-survey-end" class="btn btn-primary btn-xl page-scroll">End survey</a>
+                    <a href= "{{ site.baseurl }}/gdpr-survey-end" class="btn btn-primary btn-xl page-scroll">End survey &rarr;</a>
                   {% else %}
                     <a href="{{ page.answer-next | prepend: site.baseurl }}" class="btn btn-primary btn-xl page-scroll">Next question &rarr;</a>
                   {% endif %}

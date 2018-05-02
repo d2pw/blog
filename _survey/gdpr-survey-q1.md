@@ -18,6 +18,9 @@ answer-no: /gdpr-survey-q2
 first-question: true
 ---
 
+## 10 questions to find out if and how GDPR affects you
+When you answer ‘yes’, we’ll explain what that means for you. You’ll then be able to continue on with the survey to see if there are other points you should be aware of.
+
 **Question 1 of 10**
 
 Do you offer goods or services to EU residents?

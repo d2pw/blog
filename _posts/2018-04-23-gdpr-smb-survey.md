@@ -16,7 +16,7 @@ header-license:
 
 ## Find out how GDPR might affect you
 
-This free, short questionnaire will help you understand if you need to take action regarding GDPR – the General Data Protection Regulation for EU residents. By answering our questions, you’ll be able to see what areas present risks for you, and get important information on how to take the next steps. [**Take the survey**]({{ site.baseurl }}/gdpr-survey-home)
+This free, short questionnaire will help you understand if you need to take action regarding GDPR – the General Data Protection Regulation for EU residents. By answering our questions, you’ll be able to see what areas present risks for you, and get important information on how to take the next steps. [**Take the survey**]({{ site.baseurl }}/gdpr-survey-q1)
 
 ### Need more understanding of what GDPR is?
 You’ve probably seen GDPR in the news. With the May 25, 2018, effective date looming, non-European businesses large and small are preoccupied with the question of compliance.
@@ -25,6 +25,6 @@ If you’re a small, even one-person, business or a mid-sized company, we can he
 
 
 [**Start with our primer blog post**]({{ site.baseurl }}/gdpr)  
-[**Take the survey**]({{ site.baseurl }}/gdpr-survey-home)  
+[**Take the survey**]({{ site.baseurl }}/gdpr-survey-q1)  
 
 [**Contact us**]({{ site.baseurl }}/contact) for exclusive insight based on our extensive experience working with [European companies and authorities on personal data protection.]({{ site.url }}#portfolio)

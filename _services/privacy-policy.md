@@ -24,7 +24,7 @@ header-license: CC0 Creative Commons
 
 <p>We use <a href="https://www.google.com/policies/privacy/partners/">Google Analytics</a> to analyze traffic on our site. This information helps us understand visitor interests and helps us improve our website. When you visit our site, the pages that you look at, and a short text file called a cookie, are downloaded to your computer. A cookie is used to store small amounts of information. This information is collected for traffic analysis only. The cookie does not contain personal details. Depending on the browser that you use, you can set your preferences to block or refuse cookies, and to notify you before they are placed. We do not limit or modify the behavior of our website if you chose to block or refuse cookies.</p>
 
-<p>We do not collect or sell any information from visitors to our site. We do not run or sell any adds on our site. The only personal information we collect is information you enter in our <a href="https://dario.pw/contact">Contact page</a>. This information is used to answer any question you may have or get in touch with you at your request. We will not sell this information.</p>
+<p>We do not sell or display any advertising on our site. The only personal information we have access to is information you enter in our <a href="{{ site.email }}">Contact page</a>. This information is used to answer any question you may have or to contact you at your request. We do not collect this information for marketing purposes and we will not sell this information to third parties.</p>
 
 <h3>Google Analytics</h3>
 <p>Please visit <a href="https://www.google.com/policies/privacy/partners/">Google Analytics</a> to review their privacy policy.</p>
@@ -35,13 +35,13 @@ header-license: CC0 Creative Commons
 <hr>
 
 <h3><a id="TaC">Our Terms and Conditions</a></h3>
-<p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the <a href="https://dario.pw">https://dario.pw</a> website (the "Site") operated by dario.pw ("us", "we", or "our").</p>
+<p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the <a href="{{ site.url }}">{{ site.title_name }}</a> website (the "Site") operated by {{ site.title_name }} ("us", "we", or "our").</p>
 <p>Your access to and use of the Site is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Site.</p>
 <p>By accessing or using the Site you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Site.</p>
 
 <h4>Links To Other Web Sites</h4>
 <p>Our Site may contain links to third-party web sites or services that we do not own or control.</p>
-<p>We have no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that dario.pw shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
+<p>We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that dario.pw shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
 <p>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
 
 <h4>Governing Law</h4>

@@ -51,14 +51,14 @@
     <meta property="og:site_name" content="{{ site.title_name }} • {{ site.title }}"/>
 
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+    -->
 
-    additional SEO meta
+    <!-- additional SEO meta -->
     <meta name="twitter:image" content="{{ site.url }}/img/chklst.png"/>
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}Resources {% endif %} • {{ site.title_name }}"/>
-    <meta name="twitter:description" content="{{ page.description }}"/>
-    <meta property="og:image:secure_url" content="{{ site.url }}/img/chklst.png"/>
-    <meta property="og:type" content="website"/>
-     -->
+    <meta name="twitter:description" content="{{ site.description }}"/>
+    <meta property="og:image:secure_url" content="{{ site.url }}/img/chklst.png" />
+    <meta property="og:type" content="website" />
 
     <!-- entry for Jekyll plugin to generate an Atom (RSS-like) feed of Jekyll posts -->
     {% feed_meta %}

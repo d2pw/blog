@@ -64,10 +64,10 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 collections:
   services:
     output: true
-  secure-assets:
-    output: true
-  survey:
-    output: true
+  # secure-assets:
+  #  output: true
+  # survey:
+  #  output: true
 
 # gems
 gems: [jekyll-paginate, jekyll-feed, jekyll-seo-tag]

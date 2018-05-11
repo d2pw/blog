@@ -34,7 +34,7 @@ header-license: CC0 Creative Commons
 
 <hr>
 
-<h3><a id="TaC">Our Terms and Conditions</a></h3>
+<h3><a name="TaC">Our Terms and Conditions</a></h3>
 <p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the <a href="{{ site.url }}">{{ site.title_name }}</a> website (the "Site") operated by {{ site.title_name }} ("us", "we", or "our").</p>
 <p>Your access to and use of the Site is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Site.</p>
 <p>By accessing or using the Site you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Site.</p>

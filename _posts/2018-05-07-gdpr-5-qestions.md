@@ -18,17 +18,17 @@ Non-European businesses large and small are preoccupied with GDPR – the Genera
 
 **Click on a question below if your answer is *Yes* or you're not sure**
 
-* <a href="{{ site.baseurl }}/gdpr-smb-test#1">Is there a possibility that you're interacting with EU residents? &rarr;</a>
-* <a href="{{ site.baseurl }}/gdpr-smb-test#2">Could you be processing personal information without knowing it? &rarr;</a>
-* <a href="{{ site.baseurl }}/gdpr-smb-test#3">Might people feel their information is used in a way they didn't want? &rarr;</a>
-* <a href="{{ site.baseurl }}/gdpr-smb-test#4">Do you store or process personal information on many platforms? &rarr;</a>
-* <a href="{{ site.baseurl }}/gdpr-smb-test#5">Are you handling personal information that could be considered sensitive? &rarr;</a>
+* <a href="{{ site.baseurl.page }}#q1">Is there a possibility that you're interacting with EU residents? &rarr;</a>
+* <a href="{{ site.baseurl.page }}#q2">Could you be processing personal information without knowing it? &rarr;</a>
+* <a href="{{ site.baseurl.page }}#q3">Might people feel their information is used in a way they didn't want? &rarr;</a>
+* <a href="{{ site.baseurl.page }}#q4">Do you store or process personal information on many platforms? &rarr;</a>
+* <a href="{{ site.baseurl.page }}#q5">Are you handling personal information that could be considered sensitive? &rarr;</a>
 
 Did you answer *No* to all 5 questions? You probably don't need to worry about the effects of GDPR on your business. If you still have doubts regarding risks to personal data, [**Contact us**]({{ site.baseurl }}/contact) for exclusive insight based on our extensive experience working with [European companies and authorities on personal data protection.]({{ site.url }}#portfolio)
 
 -----
 
-#### <a name="1"></a> Is there a possibility that you're interacting with EU residents?
+#### <a name="q1"></a> Is there a possibility that you're interacting with EU residents?
 *Can an EU resident obtain goods or services from your organization? Does your organization employ anyone, even an outside contractor, resident in an EU country? Do you do business with an EU-based company?*
 
 When you collect information on prospects or customers, whether for transactional or communications purposes, whether you sell B2B or to consumers, you need to comply with the GDPR.  
@@ -39,7 +39,7 @@ The GDPR regulates the processing of personally identifiable information (PII). 
 
 _____
 
-#### <a name="2"></a> Could you be processing personal information without knowing it?
+#### <a name="q2"></a> Could you be processing personal information without knowing it?
 *Have you collected or do you store, use or process in any way personal information from people who reside in the EU? Do you use online forms, or employ a customer relationship management (CRM) database to collect data?*  
 
 *Personal information can be, for example:*
@@ -61,7 +61,7 @@ Special care must be taken to protect personal information from theft or misuse.
 
 _____
 
-#### <a name="3"></a> Might people feel their information is used in a way they didn't want?
+#### <a name="q3"></a> Might people feel their information is used in a way they didn't want?
 *Do you use personal information in a way that was not initially intended when collected? Do you use the personal information you collect on people to make decisions that may impact them?*
 
 When people give you their contact details to get a response to a question or to obtain information about a product, they trust you with their information. If you use it to send them newsletters they didn’t ask for, or sell it to another company, you are misusing that information. Under the GDPR you must tell people what data you collect and what you intend to do with it. And you must ask them to expressly agree to that — you cannot assume they agree and ask them to say if they do not. You must get them to opt in, not opt out.  
@@ -70,7 +70,7 @@ Another requirement introduced by the GDPR, is that you must be able to show tha
 
 -----
 
-#### <a name="4"></a> Do you store or process personal information on many platforms?
+#### <a name="q4"></a> Do you store or process personal information on many platforms?
 *Is it difficult for your organization to quickly find all areas of your business where you might store personal information? Can you easily identify the type of information you hold about an EU resident (e.g. whether they are an EU resident, whether they have consented and when, whether information is sensitive)?*
 
 The GDPR is about protecting personal information. If you cannot show that you are in control of the information you hold, your ability to protect it is in doubt.  
@@ -81,7 +81,7 @@ Special care must be taken to protect sensitive information, and you must prove 
 
 -----
 
-#### <a name="5"></a> Are you handling personal information that could be considered sensitive?
+#### <a name="q5"></a> Are you handling personal information that could be considered sensitive?
 *Do you store or use sensitive personal information such as health records, financial records, political affiliation or other information people could consider private? Can it be accessed without trace?*
 
 Sensitive information requires special protection. The GDPR is explicit about the cases in which you can store sensitive information belonging to EU residents, and you will need to show that you fit one of the categories and comply with any national restrictions.  

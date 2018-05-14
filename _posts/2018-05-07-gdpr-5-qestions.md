@@ -14,7 +14,9 @@ header-credit-link:
 header-license:
 ---
 ## GDPR: Ask yourself 5 questions
-Non-European businesses large and small are preoccupied with GDPR – the General Data Protection Regulation for EU residents. The wealth of information out there is often contradictory and rarely clear. By answering 5 questions, you'll be able to see what areas present risks for you, and get important information on how to take the next steps.
+Non-European businesses large and small are preoccupied with GDPR – the General Data Protection Regulation for EU residents. The wealth of information out there is often contradictory and rarely clear. By answering 5 questions, you'll be able to see what areas present risks for you, and get important information on how to take the next steps.  
+
+A major aspect of new GDPR rules has been to protect individuals from large businesses and data brokers which exploit personal information in a way many consider unethical. Answering these questions will help you step through different real world situations new GDPR rules affecting individuals and smaller organizations who's business model is does not evolve around gathering and processing personal information. New rules are in place to curtail the abuse by large processors of personal data will also place some of the same restrictions on responsibly run SMBs which need to contact residents of the EU for legitimate reasons. Read the following questions and see if they are relevant to you.
 
 **Click on a question below if your answer is *Yes* or you're not sure**
 
@@ -22,7 +24,7 @@ Non-European businesses large and small are preoccupied with GDPR – the Genera
 * <a href="{{ site.baseurl.page }}#q2">Could you be processing personal information without knowing it? &rarr;</a>
 * <a href="{{ site.baseurl.page }}#q3">Might people feel their information is used in a way they didn't want? &rarr;</a>
 * <a href="{{ site.baseurl.page }}#q4">Do you store or process personal information on many platforms? &rarr;</a>
-* <a href="{{ site.baseurl.page }}#q5">Are you handling personal information that could be considered sensitive? &rarr;</a>
+* <a href="{{ site.baseurl.page }}#q5">Do you handle personal data that could be considered sensitive? &rarr;</a>
 
 Did you answer *No* to all 5 questions? You probably don't need to worry about the effects of GDPR on your business. If you still have doubts regarding risks to personal data, [**Contact us**]({{ site.baseurl }}/contact) for exclusive insight based on our extensive experience working with [European companies and authorities on personal data protection.]({{ site.url }}#portfolio)
 
@@ -86,4 +88,7 @@ Special care must be taken to protect sensitive information, and you must prove 
 
 Sensitive information requires special protection. The GDPR is explicit about the cases in which you can store sensitive information belonging to EU residents, and you will need to show that you fit one of the categories and comply with any national restrictions.  
 
-The GDPR requires that special care be taken to limit access to personal data, therefore all access should be logged. Any breach of personal information must be reported to the supervisory Data Protection Authority (DPA) without undue delay, and at the latest within 72 hours after having become aware of the breach. If the breach concerns information that presents a high risk to the rights or freedoms of the person(s), you will need to notify those affected directly.
+The GDPR requires that special care be taken to limit access to personal data, therefore all access should be logged. Any breach of personal information must be reported to the supervisory Data Protection Authority (DPA) without undue delay, and at the latest within 72 hours after having become aware of the breach. If the breach concerns information that presents a high risk to the rights or freedoms of the person(s), you will need to notify those affected directly.  
+
+-----
+If you answered yes to any of the questions, we recommend you look deeper into the GDPR and what you need to do to comply. Our GDPR privacy impact assessment can help you. [**Contact us**]({{ site.baseurl }}/contact)

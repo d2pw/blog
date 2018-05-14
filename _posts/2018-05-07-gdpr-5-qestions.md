@@ -16,7 +16,7 @@ header-license:
 ## GDPR: Ask yourself 5 questions
 Non-European businesses large and small are preoccupied with GDPR – the General Data Protection Regulation for EU residents. The wealth of information out there is often contradictory and rarely clear. By answering 5 questions, you'll be able to see what areas present risks for you, and get important information on how to take the next steps.  
 
-A major aspect of new GDPR rules has been to protect individuals from large businesses and data brokers which exploit personal information in a way many consider unethical. Answering these questions will help you step through different real world situations new GDPR rules affecting individuals and smaller organizations who's business model is does not evolve around gathering and processing personal information. New rules are in place to curtail the abuse by large processors of personal data will also place some of the same restrictions on responsibly run SMBs which need to contact residents of the EU for legitimate reasons. Read the following questions and see if they are relevant to you.
+New GDPR rules protect EU residents from businesses and data brokers which exploit personal information in a way many consider unethical. The rules are in place to curtail the abuse by large processors of personal data, yet they may place some of the same restrictions on responsibly run SMBs which need to contact residents of the EU for legitimate reasons. Answering the following questions will help you evaluate situations new GDPR rules may affect you, letting you take appropriate action to keep running your business while complying with GDPR.  
 
 **Click on a question below if your answer is *Yes* or you're not sure**
 

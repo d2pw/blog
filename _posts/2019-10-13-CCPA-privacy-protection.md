@@ -6,7 +6,7 @@ description: "The regulatory climate around the world for data protection is hea
 date:       2019-10-13 12:00:00
 permalink:  /ccpa
 author:     dario.pw Staff post
-header-img: "/img/california-rep-1.jpeg"
+header-img: "/img/california-rep-1.jpg"
 image: "/img/california-rep-1.jpeg"
 header-title:
 header-author:

@@ -14,7 +14,7 @@ header-credit-link:
 header-license:
 ---
 
-On January 1, 2020, Assembly Bill No. 375 (AB 375)<sup>[1](#myfootnote1)</sup>, the California Consumer Privacy Act (CCPA) goes into effect in the state of California. The CCPA is intended to protect consumers, enhance privacy rights and provide greater transparency for residents of the state of California. For some context, California's economy is larger than that of any other U.S. state. If it were a country, California would be the fifth-largest economy in the world (larger than the United Kingdom, France, or India).
+On January 1, 2020, Assembly Bill No. 375 (AB 375)<sup>[1](#myfootnote1)</sup>, the California Consumer Privacy Act (CCPA) goes into effect in the state of California. The CCPA is intended to protect consumers, enhance privacy rights and provide greater transparency for residents of the state of California. For some context, California's economy is larger than that of any other U.S. state. If it were a country, California would be the fifth largest economy in the world (larger than the United Kingdom, France, or India).
 
 **The intentions of the CCPA are to provide California residents the right to:**
 * know what personal information is being collected about them.
@@ -24,16 +24,18 @@ On January 1, 2020, Assembly Bill No. 375 (AB 375)<sup>[1](#myfootnote1)</sup>, 
 * not be discriminated against, even if they exercise their privacy rights.
 * request a business delete any personal information about the consumer collected from that consumer (subject to some exceptions).
 
-Companies don't have to be based in or have a physical presence in the state of California to fall under the law. They don't even have to be based in the United States. Every business that deals with California consumers should note the  rights the CCPA offers residents over their personal information and enact measures to comply.
-
-**Businesses which meet at least one of the following criteria fall under the CCPA:**
+### Does the CCPA apply to your business?
+Companies don't have to be based in or have a physical presence in the state of California to fall under the law. They don't even have to be based in the United States. As a basic rule, the CCPA applies to a compny which does business in California, collects personal information for the purposes of processing of that data, and satisfies one or more of the following:
 * generate annual gross revenues in excess of $25 million.
 * annually buy, receive, sell or share, alone or in combination, the personal information of 50,000 or more consumers, households, or devices.
 * derive 50 percent or more of its annual revenues from selling consumers’ personal information.
 
+If the law applies to them, businesses which deal with California consumers should note the rights the CCPA offers residents over their personally identifiable information (PII) and enact measures to comply.
+
+
 ### What constitutes personal data?
 Personal data in the CCPA is defined as *“information that identifies, relates to, describes, is capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household”*. Section 1798.40<sup>[2](#myfootnote2)</sup> defines what is included under personal information and can be summarized as:
-1.	Identifiers (e.g. real name, alias, postal address, email address, IP address, etc.)
+1.	Identifiers (e.g. real name, alias, postal address, email or IP address, etc.)
 2.	Personal information in customer records (e.g. financial information, etc.)
 3.	Legally protected characteristics (e.g. race, religion, sexual orientation, etc.)
 4.	Commercial information (e.g. personal property, purchasing histories, etc.)
@@ -48,10 +50,10 @@ Personal data in the CCPA is defined as *“information that identifies, relates
 The Attorney General has the power to add additional categories of personal information in order to address changes in technology, data collection practices, obstacles to implementation, and privacy concerns.
 
 ### CCPA security requirements and data protection
-Like the GDPR, the CCPA requires that a business implements appropriate data protection measures over personal information, including both organizational and technical measures. Unlike the GDPR, the CCPA allows consumers to sue businesses when their *“non-encrypted or non-redacted personal information… is subject to an unauthorized access and exfiltration, theft, or disclosure as a result of the business’ violation of the duty to implement and maintain reasonable security procedures and practices appropriate to the nature of the information.”* Violations of this provision are subject to statutory penalties of $100 to $750 per consumer per incident, additional actual damages, and injunctive relief.
+Like the GDPR, the CCPA requires that a business implement appropriate data protection measures over personal information, including both organizational and technical measures. Unlike the GDPR, the CCPA allows consumers to sue businesses when their *“non-encrypted or non-redacted personal information… is subject to an unauthorized access and exfiltration, theft, or disclosure as a result of the business’ violation of the duty to implement and maintain reasonable security procedures and practices appropriate to the nature of the information.”* Violations of this provision are subject to statutory penalties of $100 to $750 per consumer per incident, additional actual damages, and injunctive relief. Breach related costs – IT forensics and recovery, legal costs, notifications, financial penalties, and so on – could threaten to bankrupt many businesses and cause irreparable brand damage.
 
 ### Risks faced by non-compliant businesses
-Come January 1 2020, companies have 30 days to comply with the law once regulators notify them of a violation. If the issue isn't resolved, the CCPA allows the attorney general to seek penalties of up to $7500 per consumer per incident, or actual damages, whichever is greater. California citizens will have the ability to bring a civil action lawsuit against companies if the attorney general declines to prosecute, and it allows class action lawsuits for damages. Breach related costs – IT forensics and recovery, legal costs, notifications, and so on – could threaten to financially bankrupt many businesses and cause irreparable brand damage.
+Come January 1, 2020, companies have 30 days to comply with the law once regulators notify them of a violation. If the issue isn't resolved, the CCPA allows the attorney general to seek penalties of not more than $2,500 for each violation, up to $7500 in the case of intentional violation, per consumer. California citizens will have the ability to bring a civil action lawsuit against companies if the attorney general declines to prosecute, and it allows class action lawsuits for damages.
 
 **In order to comply with the CCPA, businesses should:**
 * Update privacy notices and policies to reflect CCPA requirements;
@@ -61,7 +63,7 @@ Come January 1 2020, companies have 30 days to comply with the law once regulato
 * Implement systems to comply with these new privacy notices and policies and follow-up on legitimate consumer requests under the CCPA;
 * Ensure they implement appropriate data protection measures, protecting personal data.
 
-### A work in progress…
+### The CCPA: A work in progress…
 The State of California implemented the CCPA with urgency in late June 2018 and it contained many ambiguities. It was passed, in part, to pre-empt a ballot initiative that was to be voted on in November 2018 and that, if passed, would have imposed stricter data privacy requirements. The CCPA goes so far as to reference *“personal data misused by a data mining firm called Cambridge Analytica”.* California legislature has passed six amendments which alter the CCPA prior to its effective date. The California legislature finished its session on September 13, 2019, and cannot make any further changes until after the CCPA becomes effective on January 1, 2020. More amendments will likely occur, even after it takes effect in January 2020, but the core tenets and rights will remain.
 
 The regulatory climate around the world for data protection is heating up. Data privacy regulations like the GDPR and CCPA are becoming the norm and organizations must implement a variety of technologies and best practices to ensure compliance with them. A failure to comply can result in significant and negative consequences, including direct financial costs through fines, loss of corporate reputation, lost business opportunities, brand damage and the like. If you'd like more information on how the California Consumer Privacy Act can impact your business, and what you can do to ensure compliance with privacy regulations, get in touch. [**Contact us**]({{ site.baseurl }}/contact)

@@ -62,7 +62,7 @@ Come January 1, 2020, companies have 30 days to comply with the law once regulat
 * update privacy notices and policies to reflect CCPA requirements;
 * add a “Do not sell my data” button to their website;
 * train pertinent employees on the new compliance requirements of the CCPA;
-* audit and update systems to ensure they comply with new rights provided by the CCPA;
+* audit and update systems to ensure they comply with new consumer rights provided by the CCPA;
 * implement systems to comply with these new privacy notices and policies and follow-up on legitimate consumer requests under the CCPA;
 * ensure they implement appropriate data protection measures, protecting the personal data of consumers.
 

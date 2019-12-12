@@ -20,7 +20,8 @@ The state of California is the fifth largest economy of the world; larger than t
 > ### A business anywhere in the world which suffers a data breach that includes personal data on a few thousand customers in California could face millions of dollars in CCPA fines. 
 
 
-### The intentions of the CCPA are to provide California residents the right to:
+**The intentions of the CCPA are to provide California residents the right to:**
+
 * know what personal information is being collected about them.
 * know whether their personal information is sold or disclosed and to whom.
 * say no to the sale of personal information.
@@ -66,7 +67,8 @@ Come January 1, 2020, companies have 30 days to comply with the law once regulat
 * implement systems to comply with these new privacy notices and policies and follow-up on legitimate consumer requests under the CCPA;
 * ensure they implement appropriate data protection measures, protecting the personal data of consumers.
 
-### The CCPA: A work in progress…
+**The CCPA: A work in progress…**
+
 The State of California implemented the CCPA with urgency in June 2018 and it contained many ambiguities. It was passed, in part, to pre-empt a ballot initiative that was to be voted on in November 2018 and that, if passed, would have imposed stricter data privacy requirements. The CCPA uses *“personal data misused by a data mining firm called Cambridge Analytica”* as an example of business practices it seeks to end. More amendments will likely occur, even after it takes effect in January 2020, but the core tenets and rights granted to consumers will remain.
 
 The regulatory climate around the world for personal data protection is heating up. California is among more than a dozen states adopting or considering new privacy laws. Data privacy regulations like the [GDPR]({{ site.baseurl }}{% link _posts/2018-02-13-GDPR-privacy-protection.md %}) and CCPA are becoming the norm and organizations must implement a variety of technologies and best practices to ensure compliance with them. A failure to comply can result in significant and negative consequences, including direct financial costs through heavy fines, loss of corporate reputation, lost business opportunities, brand damage and the like. For more information on how the California Consumer Privacy Act can impact your business, and to ensure compliance with CCPA privacy regulations, get in touch. [**Contact us**]({{ site.baseurl }}/contact)
